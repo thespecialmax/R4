@@ -1,0 +1,673 @@
+#navigation > li{border-left-color:#ff4300 !important}#navigation > li:hover{border-left-color:#fff !important}.centered-nav>#navigation>li>a{border-bottom-color:#ff4300 !important}#tools .cart .number{background:#d00909}.site-logo .sitename > a{color:#fff}@media screen and (max-width:979px){#mobile-logo{background-color:#7fa405}}@media screen and (max-width:979px){#mobile-logo{background-image:url(../images/left-blok.jpg)}}@media screen and (max-width:979px){#mobile-logo{border-color:#fbf8f8}}.site-logo,.infobar-logo{padding:20px 0px 70px 0px}@media screen and (max-width:979px){#mobile-logo .sitename > a,.mobile-menu-button{color:#fff}}#right-fix #section1 .widget_latest_posts .more,#right-fixdiv .second a{background-image:url(../images/redmore.png);background-repeat:no-repeat}#right-fix #section1 .widget_latest_posts .more,#right-fixdiv .second a{background-color:#1e1e1e}#right-fixdiv .bg .trigertext1:after{background-image:url(../images/sleepegherute0239-2.png)}#right-fixdiv .bg .trigertext2:after{background-image:url(../images/gheruteyes0d2938-1.png)}#right-fixdiv .bg .trigertext3:after{background-image:url(../images/gherute02-1111.png)}#left_side{padding-top:0px}#right-fix{padding-top:0px}#top_bar{height:0px}#right-fixdiv .first{padding-top:70px}#right-fixdiv .second{padding-top:105px}@media screen and (min-width:980px){#right_side{margin-left:20%}#footer.fixed_footer{width:80%;left:20%}#left_side,#left_side .left-side-background-holder{width:20%}.rtl #right_side{margin-right:20%;margin-left:auto}.rtl #footer.fixed_footer{right:20%}}h1:not(.clean_heading),h2:not(.clean_heading),h3:not(.clean_heading),h4:not(.clean_heading),h5:not(.clean_heading),h6:not(.clean_heading),.woocommerce.single-product p.price{font-family:"Oswald";font-weight:normal;font-style:normal}.heading-font,.heading-font *{font-family:"Oswald" !important;font-weight:normal !important;font-style:normal !important}body{font-family:"Source Sans Pro";font-weight:normal;font-style:normal}.body-font,.body-font *{font-family:"Source Sans Pro" !important;font-weight:normal !important;font-style:normal !important}span.highlight,h1 em,h2 em,h3 em,h4 em,h5 em,h6 em,.mozgaration_heading em,.secondary-font,.secondary-font *{font-family:"Arial Black"," Gadget"," sans-serif" !important;font-weight:normal !important;font-style:italic !important}#navigation > li > a,#second-navigation > li > a,#mobile-navigation> li > a{font-family:"Oswald";font-weight:normal;font-style:normal}.menu-font,.menu-font *{font-family:"Oswald" !important;font-weight:normal !important;font-style:normal !important}#navigation ul li a,#second-navigation ul li a,.multicolumn > ul > li.menu-item-has-children > span,#mobile-navigation  > li li > a{font-family:"Oswald";font-weight:normal;font-style:normal}h1{font-size:44px}h2,.single-products .head_text h1,.single-product .head_text h1{font-size:28px}h3{font-size:24px}h4{font-size:22px}h5,.wpb_content_element .widgettitle,.wpb_content_element  h2.wpb_heading{font-size:20px}h6{font-size:18px}#navigation > li > a,#second-navigation > li > a,.layout2 #tools > ul > li > span:first-child{font-size:16px}#navigation > li li > a,#second-navigation > li li > a,#navigation > li li > span,#second-navigation > li li > span{font-size:16px}.mobile-menu-active #navigation > li > a,#mobile-navigation > li > a{font-size:18px}.mobile-menu-active #navigation > li li > a,#mobile-navigation  > li li > a{font-size:18px}body{font-size:14px}#tools .widget > h5{font-size:16px}.latest_news.style-2 .date{font-size:11px}.breadcrumb{font-size:11px}.sub_page_header .page-title h1{font-family:"Oswald";font-weight:normal;font-style:normal;font-size:34px}.product_info h5,.product-category h3{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:16px}.product-carousel h5,.wc-product-carousel .product_info > h5{font-size:15px}.loop.type-portfolio h2,.loop.type-portfolio h5{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:20px}.loop.type-portfolio > .overlay .text > h2,.loop.type-portfolio > .overlay .text > h5{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:22px}.mozgaration-carousel .loop.type-portfolio > .overlay .text > h2,.mozgaration-carousel .loop.type-portfolio > .overlay .text > h5{font-size:22px}.latest_news h5{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:16px}.sidebar-widgets .widget h5,.footer_widgets .widget h5,.side-panel-widgets h5{font-size:16px}.blog_list .loop .entry-title{font-size:28px}.blog-carousel h5{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:15px}.tab_title{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:14px}.toggle-head{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:15px}.header-widget{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:14px}.mozgaration-top-bar{font-family:"Source Sans Pro";font-weight:normal;font-style:normal;font-size:14px}#navigation > li > a,.layout2 #tools > ul > li > span:first-child{padding-top:1px;padding-bottom:1px}#navigation > li > a,.layout2 #tools > ul > li > span:first-child{padding-left:2px;padding-right:2px}.leftwidget{margin-top:120px}#navigation > li{border-left-width:4px}#navigation > li{border-left-color:#7fa405}.centered-nav>#navigation>li>a{border-bottom-color:#7fa405}#navigation > li > a{background-color:rgba(255,255,255,0)}#navigation > li > a{color:#ffffff}body:not(.mobile-menu) #navigation > li:hover > a,body:not(.mobile-menu) #navigation > li a:hover,#navigation > li.current-menu-ancestor > a,#navigation > li.current-menu-item > a{color:#ffffff}#navigation > li:hover:after{border-right-color:#fbf8f8}#navigation > li:hover:after{border-left-color:#fbf8f8}body.mobile-menu #navigation > li li{background-color:rgba(255,255,255,0)}body.mobile-menu #navigation > li li > a{color:#ffffff}body.mobile-menu #navigation > li li:hover > a,body.mobile-menu #navigation > li li a:hover,body.mobile-menu #navigation > li li.current-menu-ancestor > a,body.mobile-menu #navigation > li li.current-menu-item > a{color:#ffffff}body.mobile-menu #navigation > li li.current-menu-ancestor:after,body.mobile-menu #navigation > li li.current-menu-item:after,body.mobile-menu #navigation > li li:hover:after{border-right-color:#fbf8f8}body:not(.mobile-menu) #navigation > li li a{padding-top:10px;padding-bottom:10px}body:not(.mobile-menu) #navigation > li li a{padding-left:20px;padding-right:20px}body:not(.mobile-menu) #navigation > li li{background-color:#faf6f6}body:not(.mobile-menu) #navigation > li li > a{color:#7fa405}body:not(.mobile-menu) #navigation > li li > a,body:not(.mobile-menu) #navigation > li ul,body:not(.mobile-menu) #navigation > li li.menu-item-has-children > a:after{border-color:#f4f4f4}body:not(.mobile-menu) #navigation > li li:hover > a,body:not(.mobile-menu) #navigation > li li a:hover,body:not(.mobile-menu) #navigation > li li.current-menu-ancestor > a,body:not(.mobile-menu) #navigation > li li.current-menu-item > a{background-color:#ffffff}body:not(.mobile-menu) #navigation > li li:hover > a,body:not(.mobile-menu) #navigation > li li a:hover,body:not(.mobile-menu) #navigation > li li.current-menu-ancestor > a,body:not(.mobile-menu) #navigation > li li.current-menu-item > a{color:#7fa405}body:not(.mobile-menu) #navigation > li li.current-menu-ancestor:after,body:not(.mobile-menu) #navigation > li li.current-menu-item:after,body:not(.mobile-menu) #navigation > li li:hover:after{border-left-color:#edecec;border-right-color:#edecec}body.mobile-menu.layout2 .header-right{background-color:#2a2a2a}.side-panel-holder a,.side-panel-holder .latest_news .title:hover,.side-panel-holder .woocommerce-MyAccount-navigation a:hover,.side-panel-holder .product_info h5 a:hover,.side-panel-holder .product-category a:hover h3,.side-panel-holder .mozgaration_heading_wrapper a:hover .mozgaration_heading,.side-panel-holder .paging_wrapper > .page-numbers a:hover,.side-panel-holder .woocommerce-MyAccount-navigation .is-active a,.side-panel-holder .timeline > div > .event-date{color:#fff}.side-panel-holder:not(.has-custom-bg),.side-panel-holder.column_container,.side-panel-holder > .mozgaration-sa-background,.side-panel-holder .chained_contents.style-1 > div > .icon,.side-panel-holder .chained_contents.style-1 > div > .number,.side-panel-holder .chained_contents.style-2 > div > .icon,.side-panel-holder .chained_contents.style-2 > div > .number,.side-panel-holder .button_.color:hover:after,.side-panel-holder .quantity .minus,.side-panel-holder .quantity .plus,.side-panel-holder .mozgaration-md-content{background-color:#222222}.side-panel-holder,.side-panel-holder .button_.default,.side-panel-holder .button_.color:hover,.side-panel-holder .paging_wrapper > .page-numbers a,.side-panel-holder .paging_wrapper > .page-numbers li > span,.side-panel-holder .author-name a,.side-panel-holder .style2 > .filter_navigation li a.active,.side-panel-holder .quantity .plus:hover,.side-panel-holder .quantity .minus:hover,.side-panel-holder .woocommerce-MyAccount-navigation a,.side-panel-holder .brochure-box,.side-panel-holder .brochure-box_text b{color:#fff}.side-panel-holder,.side-panel-holder *,.side-panel-holder *:before,.side-panel-holder *:after,.side-panel-holder:before,.side-panel-holder:after,.side-panel-holder .button_.color:hover,.side-panel-holder .brochure-box:hover{border-color:#3D3D3D}.side-panel-holder .mozgaration_divider.style-1:before,.side-panel-holder .mozgaration_divider.style-2:before,.side-panel-holder .mozgaration_divider.style-3:before,.side-panel-holder .mozgaration_divider.style-5,.side-panel-holder .mozgaration-toggle .toggle-head:after,.side-panel-holder .testimonial .text .icon-quote-right,.side-panel-holder .testimonial .text .icon-quote-left,.side-panel-holder .mozgaration_quote .icon-quote-right,.side-panel-holder .mozgaration_quote .icon-quote-left,.side-panel-holder .star-rating:before,.side-panel-holder  .cart-collaterals h2:before,.side-panel-holder .timeline > div:before,.side-panel-holder #mozgaration-side-navigation > li.menu-item-has-children a:after{color:#3D3D3D}.side-panel-holder .masonry .vertical_line,.side-panel-holder .timeline:after,.side-panel-holder .chained_contents.style-1:after,.side-panel-holder .chained_contents.style-2:after,.side-panel-holder .mozgaration_divider.style-2:after,.side-panel-holder .mozgaration_divider.style-3:after,.side-panel-holder .mozgaration_divider.style-4,.side-panel-holder .pricing_table.compare .table_wrap > ul > li.caption,.side-panel-holder .pricing_table.compare .table_wrap > ul > li.price,.side-panel-holder .dots-holder > div span,.side-panel-holder .widget > h5:after,.side-panel-holder .widget .sub-menu li a:after,.side-panel-holder  .widget .children li a:after,.side-panel-holder .price_slider_wrapper .ui-widget-content,.side-panel-holder .timeline > div:before,.side-panel-holder .border_grid > .row:after,.side-panel-holder.border_grid .content_row:after{background-color:#3D3D3D}.side-panel-holder p.price del,.side-panel-holder .mozgaration_heading_wrapper.style-4 .punchline,.side-panel-holder .mozgaration_heading_wrapper.style-5 .punchline,.side-panel-holder .client_info,.side-panel-holder .blog_list .date_box,.side-panel-holder .post_data *,.side-panel-holder .comment-meta > a,.side-panel-holder .filter_navigation li a,.side-panel-holder .widget > ul > li li a,.side-panel-holder .widget .menu > li li a,.side-panel-holder .widget_latest_posts .meta,.side-panel-holder  .widget_latest_posts .meta *,.side-panel-holder .widget_popular_posts .meta,.side-panel-holder  .widget_popular_posts .meta *,.side-panel-holder .small.note,.side-panel-holder  .star-rating span:before,.side-panel-holder .with_icons.style-2 > div > .icon,.side-panel-holder .chained_contents.style-1 > div > .icon,.side-panel-holder .chained_contents.style-1 > div > .number,.side-panel-holder .chained_contents.style-2 > div > .icon,.side-panel-holder .chained_contents.style-2 > div > .number,.side-panel-holder .read_more:before,.side-panel-holder .icon-content-box.icon-style-1 .icon-holder span:before,.side-panel-holder .quantity .plus,.side-panel-holder  .quantity .minus,.side-panel-holder .woocommerce.widget .quantity,.side-panel-holder#tools > ul > li:hover > span:first-child,.side-panel-holder#tools > ul > li.active > span:first-child,.side-panel-holder#tools > ul > li:hover:before,.side-panel-holder#tools > ul > li.active:before,.side-panel-holder .latest_news .date,.side-panel-holder #mozgaration-side-navigation li a:hover,.side-panel-holder #mozgaration-side-navigation li.active > a,.side-panel-holder .tab_title:hover,.side-panel-holder  .tab_title.active,.side-panel-holder .brochure-box i{color:#888888}.side-panel-holder .mozgaration_heading_wrapper.style-2 > .style-2:before,.side-panel-holder .mozgaration_heading .heading_icon:before,.side-panel-holder .highlight.style-1,.side-panel-holder .services-category h4,.side-panel-holder .paging_wrapper > .page-numbers .current,.side-panel-holder .single_variation span.price,.side-panel-holder .primary-color,.side-panel-holder  .primary-color > a,.side-panel-holder .primary-color.mozgaration_heading,.side-panel-holder .icon-content-box.icon-style-4 .icon-holder span:before{color:#e6aa21}.side-panel-holder .pricing_table .table_wrap.highlight > ul > li.caption,.side-panel-holder .pricing_table .table_wrap.highlight > ul > li.price,.side-panel-holder .button_.default:hover:after,.side-panel-holder .button_.color,.side-panel-holder .services-category a.info,.side-panel-holder .mozgaration-toggle > ol > li .toggle-number,.side-panel-holder .mozgaration_heading.style-1:after,.side-panel-holder .mozgaration_heading_wrapper.style-4 > .style-4:after,.side-panel-holder .mozgaration_heading_wrapper.style-5 > .style-5:after,.side-panel-holder .highlight.style-2,.side-panel-holder .dots-holder div.active span,.side-panel-holder .dots-holder div:hover span,.side-panel-holder input[type="submit"]:hover,.side-panel-holder input[type="button"]:hover,.side-panel-holder .comment-reply a:hover,.side-panel-holder .comment-reply-title small > a:hover,.side-panel-holder .action_buttons li a:hover,.side-panel-holder .onsale,.side-panel-holder .product_info_footer a.added_to_cart,.side-panel-holder  button.button:hover,.side-panel-holder  input.button:hover,.side-panel-holder  #respond input#submit:hover,.side-panel-holder  .cart_totals a.button:hover,.side-panel-holder .ui-slider .ui-slider-handle,.side-panel-holder .ui-slider .ui-slider-range,.side-panel-holder .with_icons.style-3 > div > .icon,.side-panel-holder .icon-content-box.icon-style-2 .icon-holder span:before,.side-panel-holder .icon-content-box.icon-style-3 .icon-holder span:before,.side-panel-holder .chained_contents > div:hover .icon,.side-panel-holder .chained_contents > div:hover .number,.side-panel-holder .mozgaration-md-content>h1,.side-panel-holder .mozgaration-md-content>h2,.side-panel-holder .mozgaration-md-content>h3,.side-panel-holder .mozgaration-md-content>h4,.side-panel-holder .mozgaration-md-content>h5,.side-panel-holder .mozgaration-md-content>h6{background-color:#e6aa21}.side-panel-holder .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,.side-panel-holder .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,.side-panel-holder .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,.side-panel-holder .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,.side-panel-holder .filter_navigation li a.active,.side-panel-holder .button_.color,.side-panel-holder .chained_contents > div:hover .icon,.side-panel-holder .chained_contents > div:hover .number,.side-panel-holder .brochure-box{border-color:#e6aa21}.side-panel-holder .with_icons.style-3 > div > .icon,.side-panel-holder .pricing_table .table_wrap.highlight > ul > li.caption,.side-panel-holder .pricing_table .table_wrap.highlight > ul > li.price,.side-panel-holder .button_.color,.side-panel-holder .services-category a.info,.side-panel-holder .style1 > .filter_navigation li a,.side-panel-holder .button_.default:hover,.side-panel-holder .mozgaration-toggle > ol > li .toggle-number,.side-panel-holder .icon-content-box.icon-style-2 .icon-holder span:before,.side-panel-holder .highlight.style-2,.side-panel-holder input[type="submit"],.side-panel-holder input[type="button"],.side-panel-holder button:not(.button_),.side-panel-holder button:not(.button_):hover,.side-panel-holder .cart_totals a.button,.side-panel-holder .cart_totals a.button:hover,.side-panel-holder .comment-reply a,.side-panel-holder .comment-reply-title small > a,.side-panel-holder .comment-reply-title small > a:hover,.side-panel-holder .product_info_footer a.added_to_cart,.side-panel-holder .product_info_footer a.added_to_cart:hover,.side-panel-holder .quantity .plus:hover,.side-panel-holder .quantity .minus:hover,.side-panel-holder .chained_contents > div:hover .icon,.side-panel-holder .chained_contents > div:hover .number,.side-panel-holder .icon-content-box.icon-style-3 .icon-holder span:before,.side-panel-holder .product_info_footer > a{color:#fff}.side-panel-holder .mozgaration_heading,.side-panel-holder h1,.side-panel-holder h2,.side-panel-holder h3,.side-panel-holder h4,.side-panel-holder h5,.side-panel-holder h6,.side-panel-holder h1 a,.side-panel-holder h2 a,.side-panel-holder h3 a,.side-panel-holder h4 a,.side-panel-holder h5 a,.side-panel-holder h6 a,.side-panel-holder h1 a:hover,.side-panel-holder h2 a:hover,.side-panel-holder h3 a:hover,.side-panel-holder h4 a:hover,.side-panel-holder h5 a:hover,.side-panel-holder h6 a:hover,.side-panel-holder .open .toggle-head,.side-panel-holder .style2 > .filter_navigation li a,.side-panel-holder .mozgaration-md-content>h1,.side-panel-holder .mozgaration-md-content>h2,.side-panel-holder .mozgaration-md-content>h3,.side-panel-holder .mozgaration-md-content>h4,.side-panel-holder .mozgaration-md-content>h5,.side-panel-holder .mozgaration-md-content>h6{color:#fff}.side-panel-holder input[type="submit"],.side-panel-holder input[type="button"],.side-panel-holder button:not(.button_),.side-panel-holder .comment-reply a,.side-panel-holder .style1 .filter_navigation li a,.side-panel-holder .comment-reply-title small > a,.side-panel-holder ul > li > div > span.close,.side-panel-holder button.button,.side-panel-holder  input.button,.side-panel-holder  #respond input#submit,.side-panel-holder  .cart_totals a.button{background-color:#2f2f2f}.side-panel-holder .social_media li a,.side-panel-holder .filter_navigation li span.badge{background-color:#2f2f2f}.default-style a,.default-style .latest_news .title:hover,.default-style .woocommerce-MyAccount-navigation a:hover,.default-style .product_info h5 a:hover,.default-style .product-category a:hover h3,.default-style .mozgaration_heading_wrapper a:hover .mozgaration_heading,.default-style .paging_wrapper > .page-numbers a:hover,.default-style .woocommerce-MyAccount-navigation .is-active a,.default-style .timeline > div > .event-date{color:#ff4400}.default-style:not(.has-custom-bg),.default-style.column_container,.default-style > .mozgaration-sa-background,.default-style .chained_contents.style-1 > div > .icon,.default-style .chained_contents.style-1 > div > .number,.default-style .chained_contents.style-2 > div > .icon,.default-style .chained_contents.style-2 > div > .number,.default-style .button_.color:hover:after,.default-style .quantity .minus,.default-style .quantity .plus,.default-style .mozgaration-md-content{background-color:#ffffff}.default-style,.default-style .button_.default,.default-style .button_.color:hover,.default-style .paging_wrapper > .page-numbers a,.default-style .paging_wrapper > .page-numbers li > span,.default-style .author-name a,.default-style .style2 > .filter_navigation li a.active,.default-style .quantity .plus:hover,.default-style .quantity .minus:hover,.default-style .woocommerce-MyAccount-navigation a,.default-style .brochure-box,.default-style .brochure-box_text b{color:#666}.default-style,.default-style *,.default-style *:before,.default-style *:after,.default-style:before,.default-style:after,.default-style .button_.color:hover,.default-style .brochure-box:hover{border-color:#E8E8E8}.default-style .mozgaration_divider.style-1:before,.default-style .mozgaration_divider.style-2:before,.default-style .mozgaration_divider.style-3:before,.default-style .mozgaration_divider.style-5,.default-style .mozgaration-toggle .toggle-head:after,.default-style .testimonial .text .icon-quote-right,.default-style .testimonial .text .icon-quote-left,.default-style .mozgaration_quote .icon-quote-right,.default-style .mozgaration_quote .icon-quote-left,.default-style .star-rating:before,.default-style  .cart-collaterals h2:before,.default-style .timeline > div:before,.default-style #mozgaration-side-navigation > li.menu-item-has-children a:after{color:#E8E8E8}.default-style .masonry .vertical_line,.default-style .timeline:after,.default-style .chained_contents.style-1:after,.default-style .chained_contents.style-2:after,.default-style .mozgaration_divider.style-2:after,.default-style .mozgaration_divider.style-3:after,.default-style .mozgaration_divider.style-4,.default-style .pricing_table.compare .table_wrap > ul > li.caption,.default-style .pricing_table.compare .table_wrap > ul > li.price,.default-style .dots-holder > div span,.default-style .widget > h5:after,.default-style .widget .sub-menu li a:after,.default-style  .widget .children li a:after,.default-style .price_slider_wrapper .ui-widget-content,.default-style .timeline > div:before,.default-style .border_grid > .row:after,.default-style.border_grid .content_row:after{background-color:#E8E8E8}.default-style p.price del,.default-style .mozgaration_heading_wrapper.style-4 .punchline,.default-style .mozgaration_heading_wrapper.style-5 .punchline,.default-style .client_info,.default-style .blog_list .date_box,.default-style .post_data *,.default-style .comment-meta > a,.default-style .filter_navigation li a,.default-style .widget > ul > li li a,.default-style .widget .menu > li li a,.default-style .widget_latest_posts .meta,.default-style  .widget_latest_posts .meta *,.default-style .widget_popular_posts .meta,.default-style  .widget_popular_posts .meta *,.default-style .small.note,.default-style  .star-rating span:before,.default-style .with_icons.style-2 > div > .icon,.default-style .chained_contents.style-1 > div > .icon,.default-style .chained_contents.style-1 > div > .number,.default-style .chained_contents.style-2 > div > .icon,.default-style .chained_contents.style-2 > div > .number,.default-style .read_more:before,.default-style .icon-content-box.icon-style-1 .icon-holder span:before,.default-style .quantity .plus,.default-style  .quantity .minus,.default-style .woocommerce.widget .quantity,.default-style#tools > ul > li:hover > span:first-child,.default-style#tools > ul > li.active > span:first-child,.default-style#tools > ul > li:hover:before,.default-style#tools > ul > li.active:before,.default-style .latest_news .date,.default-style #mozgaration-side-navigation li a:hover,.default-style #mozgaration-side-navigation li.active > a,.default-style .tab_title:hover,.default-style  .tab_title.active,.default-style .brochure-box i{color:#ff4400}.default-style .mozgaration_heading_wrapper.style-2 > .style-2:before,.default-style .mozgaration_heading .heading_icon:before,.default-style .highlight.style-1,.default-style .services-category h4,.default-style .paging_wrapper > .page-numbers .current,.default-style .single_variation span.price,.default-style .primary-color,.default-style  .primary-color > a,.default-style .primary-color.mozgaration_heading,.default-style .icon-content-box.icon-style-4 .icon-holder span:before{color:#ff4400}.default-style .pricing_table .table_wrap.highlight > ul > li.caption,.default-style .pricing_table .table_wrap.highlight > ul > li.price,.default-style .button_.default:hover:after,.default-style .button_.color,.default-style .services-category a.info,.default-style .mozgaration-toggle > ol > li .toggle-number,.default-style .mozgaration_heading.style-1:after,.default-style .mozgaration_heading_wrapper.style-4 > .style-4:after,.default-style .mozgaration_heading_wrapper.style-5 > .style-5:after,.default-style .highlight.style-2,.default-style .dots-holder div.active span,.default-style .dots-holder div:hover span,.default-style input[type="submit"]:hover,.default-style input[type="button"]:hover,.default-style .comment-reply a:hover,.default-style .comment-reply-title small > a:hover,.default-style .action_buttons li a:hover,.default-style .onsale,.default-style .product_info_footer a.added_to_cart,.default-style  button.button:hover,.default-style  input.button:hover,.default-style  #respond input#submit:hover,.default-style  .cart_totals a.button:hover,.default-style .ui-slider .ui-slider-handle,.default-style .ui-slider .ui-slider-range,.default-style .with_icons.style-3 > div > .icon,.default-style .icon-content-box.icon-style-2 .icon-holder span:before,.default-style .icon-content-box.icon-style-3 .icon-holder span:before,.default-style .chained_contents > div:hover .icon,.default-style .chained_contents > div:hover .number,.default-style .mozgaration-md-content>h1,.default-style .mozgaration-md-content>h2,.default-style .mozgaration-md-content>h3,.default-style .mozgaration-md-content>h4,.default-style .mozgaration-md-content>h5,.default-style .mozgaration-md-content>h6{background-color:#ff4400}.default-style .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,.default-style .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,.default-style .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,.default-style .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,.default-style .filter_navigation li a.active,.default-style .button_.color,.default-style .chained_contents > div:hover .icon,.default-style .chained_contents > div:hover .number,.default-style .brochure-box{border-color:#ff4400}.default-style .with_icons.style-3 > div > .icon,.default-style .pricing_table .table_wrap.highlight > ul > li.caption,.default-style .pricing_table .table_wrap.highlight > ul > li.price,.default-style .button_.color,.default-style .services-category a.info,.default-style .style1 > .filter_navigation li a,.default-style .button_.default:hover,.default-style .mozgaration-toggle > ol > li .toggle-number,.default-style .icon-content-box.icon-style-2 .icon-holder span:before,.default-style .highlight.style-2,.default-style input[type="submit"],.default-style input[type="button"],.default-style button:not(.button_),.default-style button:not(.button_):hover,.default-style .cart_totals a.button,.default-style .cart_totals a.button:hover,.default-style .comment-reply a,.default-style .comment-reply-title small > a,.default-style .comment-reply-title small > a:hover,.default-style .product_info_footer a.added_to_cart,.default-style .product_info_footer a.added_to_cart:hover,.default-style .quantity .plus:hover,.default-style .quantity .minus:hover,.default-style .chained_contents > div:hover .icon,.default-style .chained_contents > div:hover .number,.default-style .icon-content-box.icon-style-3 .icon-holder span:before,.default-style .product_info_footer > a{color:#fff}.default-style .mozgaration_heading,.default-style h1,.default-style h2,.default-style h3,.default-style h4,.default-style h5,.default-style h6,.default-style h1 a,.default-style h2 a,.default-style h3 a,.default-style h4 a,.default-style h5 a,.default-style h6 a,.default-style h1 a:hover,.default-style h2 a:hover,.default-style h3 a:hover,.default-style h4 a:hover,.default-style h5 a:hover,.default-style h6 a:hover,.default-style .open .toggle-head,.default-style .style2 > .filter_navigation li a,.default-style .mozgaration-md-content>h1,.default-style .mozgaration-md-content>h2,.default-style .mozgaration-md-content>h3,.default-style .mozgaration-md-content>h4,.default-style .mozgaration-md-content>h5,.default-style .mozgaration-md-content>h6{color:#1c1c1c}.default-style input[type="submit"],.default-style input[type="button"],.default-style button:not(.button_),.default-style .comment-reply a,.default-style .style1 .filter_navigation li a,.default-style .comment-reply-title small > a,.default-style ul > li > div > span.close,.default-style button.button,.default-style  input.button,.default-style  #respond input#submit,.default-style  .cart_totals a.button{background-color:#bbb}.default-style .social_media li a,.default-style .filter_navigation li span.badge{background-color:#bbb}.alt-style-1 a,.alt-style-1 .latest_news .title:hover,.alt-style-1 .woocommerce-MyAccount-navigation a:hover,.alt-style-1 .product_info h5 a:hover,.alt-style-1 .product-category a:hover h3,.alt-style-1 .mozgaration_heading_wrapper a:hover .mozgaration_heading,.alt-style-1 .paging_wrapper > .page-numbers a:hover,.alt-style-1 .woocommerce-MyAccount-navigation .is-active a,.alt-style-1 .timeline > div > .event-date{color:#ff4400}.alt-style-1:not(.has-custom-bg),.alt-style-1.column_container,.alt-style-1 > .mozgaration-sa-background,.alt-style-1 .chained_contents.style-1 > div > .icon,.alt-style-1 .chained_contents.style-1 > div > .number,.alt-style-1 .chained_contents.style-2 > div > .icon,.alt-style-1 .chained_contents.style-2 > div > .number,.alt-style-1 .button_.color:hover:after,.alt-style-1 .quantity .minus,.alt-style-1 .quantity .plus,.alt-style-1 .mozgaration-md-content{background-color:#f4f4f4}.alt-style-1,.alt-style-1 .button_.default,.alt-style-1 .button_.color:hover,.alt-style-1 .paging_wrapper > .page-numbers a,.alt-style-1 .paging_wrapper > .page-numbers li > span,.alt-style-1 .author-name a,.alt-style-1 .style2 > .filter_navigation li a.active,.alt-style-1 .quantity .plus:hover,.alt-style-1 .quantity .minus:hover,.alt-style-1 .woocommerce-MyAccount-navigation a,.alt-style-1 .brochure-box,.alt-style-1 .brochure-box_text b{color:#666}.alt-style-1,.alt-style-1 *,.alt-style-1 *:before,.alt-style-1 *:after,.alt-style-1:before,.alt-style-1:after,.alt-style-1 .button_.color:hover,.alt-style-1 .brochure-box:hover{border-color:#e1e1e1}.alt-style-1 .mozgaration_divider.style-1:before,.alt-style-1 .mozgaration_divider.style-2:before,.alt-style-1 .mozgaration_divider.style-3:before,.alt-style-1 .mozgaration_divider.style-5,.alt-style-1 .mozgaration-toggle .toggle-head:after,.alt-style-1 .testimonial .text .icon-quote-right,.alt-style-1 .testimonial .text .icon-quote-left,.alt-style-1 .mozgaration_quote .icon-quote-right,.alt-style-1 .mozgaration_quote .icon-quote-left,.alt-style-1 .star-rating:before,.alt-style-1  .cart-collaterals h2:before,.alt-style-1 .timeline > div:before,.alt-style-1 #mozgaration-side-navigation > li.menu-item-has-children a:after{color:#e1e1e1}.alt-style-1 .masonry .vertical_line,.alt-style-1 .timeline:after,.alt-style-1 .chained_contents.style-1:after,.alt-style-1 .chained_contents.style-2:after,.alt-style-1 .mozgaration_divider.style-2:after,.alt-style-1 .mozgaration_divider.style-3:after,.alt-style-1 .mozgaration_divider.style-4,.alt-style-1 .pricing_table.compare .table_wrap > ul > li.caption,.alt-style-1 .pricing_table.compare .table_wrap > ul > li.price,.alt-style-1 .dots-holder > div span,.alt-style-1 .widget > h5:after,.alt-style-1 .widget .sub-menu li a:after,.alt-style-1  .widget .children li a:after,.alt-style-1 .price_slider_wrapper .ui-widget-content,.alt-style-1 .timeline > div:before,.alt-style-1 .border_grid > .row:after,.alt-style-1.border_grid .content_row:after{background-color:#e1e1e1}.alt-style-1 p.price del,.alt-style-1 .mozgaration_heading_wrapper.style-4 .punchline,.alt-style-1 .mozgaration_heading_wrapper.style-5 .punchline,.alt-style-1 .client_info,.alt-style-1 .blog_list .date_box,.alt-style-1 .post_data *,.alt-style-1 .comment-meta > a,.alt-style-1 .filter_navigation li a,.alt-style-1 .widget > ul > li li a,.alt-style-1 .widget .menu > li li a,.alt-style-1 .widget_latest_posts .meta,.alt-style-1  .widget_latest_posts .meta *,.alt-style-1 .widget_popular_posts .meta,.alt-style-1  .widget_popular_posts .meta *,.alt-style-1 .small.note,.alt-style-1  .star-rating span:before,.alt-style-1 .with_icons.style-2 > div > .icon,.alt-style-1 .chained_contents.style-1 > div > .icon,.alt-style-1 .chained_contents.style-1 > div > .number,.alt-style-1 .chained_contents.style-2 > div > .icon,.alt-style-1 .chained_contents.style-2 > div > .number,.alt-style-1 .read_more:before,.alt-style-1 .icon-content-box.icon-style-1 .icon-holder span:before,.alt-style-1 .quantity .plus,.alt-style-1  .quantity .minus,.alt-style-1 .woocommerce.widget .quantity,.alt-style-1#tools > ul > li:hover > span:first-child,.alt-style-1#tools > ul > li.active > span:first-child,.alt-style-1#tools > ul > li:hover:before,.alt-style-1#tools > ul > li.active:before,.alt-style-1 .latest_news .date,.alt-style-1 #mozgaration-side-navigation li a:hover,.alt-style-1 #mozgaration-side-navigation li.active > a,.alt-style-1 .tab_title:hover,.alt-style-1  .tab_title.active,.alt-style-1 .brochure-box i{color:#1b2430}.alt-style-1 .mozgaration_heading_wrapper.style-2 > .style-2:before,.alt-style-1 .mozgaration_heading .heading_icon:before,.alt-style-1 .highlight.style-1,.alt-style-1 .services-category h4,.alt-style-1 .paging_wrapper > .page-numbers .current,.alt-style-1 .single_variation span.price,.alt-style-1 .primary-color,.alt-style-1  .primary-color > a,.alt-style-1 .primary-color.mozgaration_heading,.alt-style-1 .icon-content-box.icon-style-4 .icon-holder span:before{color:#ff4400}.alt-style-1 .pricing_table .table_wrap.highlight > ul > li.caption,.alt-style-1 .pricing_table .table_wrap.highlight > ul > li.price,.alt-style-1 .button_.default:hover:after,.alt-style-1 .button_.color,.alt-style-1 .services-category a.info,.alt-style-1 .mozgaration-toggle > ol > li .toggle-number,.alt-style-1 .mozgaration_heading.style-1:after,.alt-style-1 .mozgaration_heading_wrapper.style-4 > .style-4:after,.alt-style-1 .mozgaration_heading_wrapper.style-5 > .style-5:after,.alt-style-1 .highlight.style-2,.alt-style-1 .dots-holder div.active span,.alt-style-1 .dots-holder div:hover span,.alt-style-1 input[type="submit"]:hover,.alt-style-1 input[type="button"]:hover,.alt-style-1 .comment-reply a:hover,.alt-style-1 .comment-reply-title small > a:hover,.alt-style-1 .action_buttons li a:hover,.alt-style-1 .onsale,.alt-style-1 .product_info_footer a.added_to_cart,.alt-style-1  button.button:hover,.alt-style-1  input.button:hover,.alt-style-1  #respond input#submit:hover,.alt-style-1  .cart_totals a.button:hover,.alt-style-1 .ui-slider .ui-slider-handle,.alt-style-1 .ui-slider .ui-slider-range,.alt-style-1 .with_icons.style-3 > div > .icon,.alt-style-1 .icon-content-box.icon-style-2 .icon-holder span:before,.alt-style-1 .icon-content-box.icon-style-3 .icon-holder span:before,.alt-style-1 .chained_contents > div:hover .icon,.alt-style-1 .chained_contents > div:hover .number,.alt-style-1 .mozgaration-md-content>h1,.alt-style-1 .mozgaration-md-content>h2,.alt-style-1 .mozgaration-md-content>h3,.alt-style-1 .mozgaration-md-content>h4,.alt-style-1 .mozgaration-md-content>h5,.alt-style-1 .mozgaration-md-content>h6{background-color:#ff4400}.alt-style-1 .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,.alt-style-1 .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,.alt-style-1 .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,.alt-style-1 .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,.alt-style-1 .filter_navigation li a.active,.alt-style-1 .button_.color,.alt-style-1 .chained_contents > div:hover .icon,.alt-style-1 .chained_contents > div:hover .number,.alt-style-1 .brochure-box{border-color:#ff4400}.alt-style-1 .with_icons.style-3 > div > .icon,.alt-style-1 .pricing_table .table_wrap.highlight > ul > li.caption,.alt-style-1 .pricing_table .table_wrap.highlight > ul > li.price,.alt-style-1 .button_.color,.alt-style-1 .services-category a.info,.alt-style-1 .style1 > .filter_navigation li a,.alt-style-1 .button_.default:hover,.alt-style-1 .mozgaration-toggle > ol > li .toggle-number,.alt-style-1 .icon-content-box.icon-style-2 .icon-holder span:before,.alt-style-1 .highlight.style-2,.alt-style-1 input[type="submit"],.alt-style-1 input[type="button"],.alt-style-1 button:not(.button_),.alt-style-1 button:not(.button_):hover,.alt-style-1 .cart_totals a.button,.alt-style-1 .cart_totals a.button:hover,.alt-style-1 .comment-reply a,.alt-style-1 .comment-reply-title small > a,.alt-style-1 .comment-reply-title small > a:hover,.alt-style-1 .product_info_footer a.added_to_cart,.alt-style-1 .product_info_footer a.added_to_cart:hover,.alt-style-1 .quantity .plus:hover,.alt-style-1 .quantity .minus:hover,.alt-style-1 .chained_contents > div:hover .icon,.alt-style-1 .chained_contents > div:hover .number,.alt-style-1 .icon-content-box.icon-style-3 .icon-holder span:before,.alt-style-1 .product_info_footer > a{color:#fff}.alt-style-1 .mozgaration_heading,.alt-style-1 h1,.alt-style-1 h2,.alt-style-1 h3,.alt-style-1 h4,.alt-style-1 h5,.alt-style-1 h6,.alt-style-1 h1 a,.alt-style-1 h2 a,.alt-style-1 h3 a,.alt-style-1 h4 a,.alt-style-1 h5 a,.alt-style-1 h6 a,.alt-style-1 h1 a:hover,.alt-style-1 h2 a:hover,.alt-style-1 h3 a:hover,.alt-style-1 h4 a:hover,.alt-style-1 h5 a:hover,.alt-style-1 h6 a:hover,.alt-style-1 .open .toggle-head,.alt-style-1 .style2 > .filter_navigation li a,.alt-style-1 .mozgaration-md-content>h1,.alt-style-1 .mozgaration-md-content>h2,.alt-style-1 .mozgaration-md-content>h3,.alt-style-1 .mozgaration-md-content>h4,.alt-style-1 .mozgaration-md-content>h5,.alt-style-1 .mozgaration-md-content>h6{color:#222}.alt-style-1 input[type="submit"],.alt-style-1 input[type="button"],.alt-style-1 button:not(.button_),.alt-style-1 .comment-reply a,.alt-style-1 .style1 .filter_navigation li a,.alt-style-1 .comment-reply-title small > a,.alt-style-1 ul > li > div > span.close,.alt-style-1 button.button,.alt-style-1  input.button,.alt-style-1  #respond input#submit,.alt-style-1  .cart_totals a.button{background-color:#bbb}.alt-style-1 .social_media li a,.alt-style-1 .filter_navigation li span.badge{background-color:#bbb}.alt-style-2 a,.alt-style-2 .latest_news .title:hover,.alt-style-2 .woocommerce-MyAccount-navigation a:hover,.alt-style-2 .product_info h5 a:hover,.alt-style-2 .product-category a:hover h3,.alt-style-2 .mozgaration_heading_wrapper a:hover .mozgaration_heading,.alt-style-2 .paging_wrapper > .page-numbers a:hover,.alt-style-2 .woocommerce-MyAccount-navigation .is-active a,.alt-style-2 .timeline > div > .event-date{color:#fff}.alt-style-2:not(.has-custom-bg),.alt-style-2.column_container,.alt-style-2 > .mozgaration-sa-background,.alt-style-2 .chained_contents.style-1 > div > .icon,.alt-style-2 .chained_contents.style-1 > div > .number,.alt-style-2 .chained_contents.style-2 > div > .icon,.alt-style-2 .chained_contents.style-2 > div > .number,.alt-style-2 .button_.color:hover:after,.alt-style-2 .quantity .minus,.alt-style-2 .quantity .plus,.alt-style-2 .mozgaration-md-content{background-color:#ff4400}.alt-style-2,.alt-style-2 .button_.default,.alt-style-2 .button_.color:hover,.alt-style-2 .paging_wrapper > .page-numbers a,.alt-style-2 .paging_wrapper > .page-numbers li > span,.alt-style-2 .author-name a,.alt-style-2 .style2 > .filter_navigation li a.active,.alt-style-2 .quantity .plus:hover,.alt-style-2 .quantity .minus:hover,.alt-style-2 .woocommerce-MyAccount-navigation a,.alt-style-2 .brochure-box,.alt-style-2 .brochure-box_text b{color:#fff}.alt-style-2,.alt-style-2 *,.alt-style-2 *:before,.alt-style-2 *:after,.alt-style-2:before,.alt-style-2:after,.alt-style-2 .button_.color:hover,.alt-style-2 .brochure-box:hover{border-color:#ffffff}.alt-style-2 .mozgaration_divider.style-1:before,.alt-style-2 .mozgaration_divider.style-2:before,.alt-style-2 .mozgaration_divider.style-3:before,.alt-style-2 .mozgaration_divider.style-5,.alt-style-2 .mozgaration-toggle .toggle-head:after,.alt-style-2 .testimonial .text .icon-quote-right,.alt-style-2 .testimonial .text .icon-quote-left,.alt-style-2 .mozgaration_quote .icon-quote-right,.alt-style-2 .mozgaration_quote .icon-quote-left,.alt-style-2 .star-rating:before,.alt-style-2  .cart-collaterals h2:before,.alt-style-2 .timeline > div:before,.alt-style-2 #mozgaration-side-navigation > li.menu-item-has-children a:after{color:#ffffff}.alt-style-2 .masonry .vertical_line,.alt-style-2 .timeline:after,.alt-style-2 .chained_contents.style-1:after,.alt-style-2 .chained_contents.style-2:after,.alt-style-2 .mozgaration_divider.style-2:after,.alt-style-2 .mozgaration_divider.style-3:after,.alt-style-2 .mozgaration_divider.style-4,.alt-style-2 .pricing_table.compare .table_wrap > ul > li.caption,.alt-style-2 .pricing_table.compare .table_wrap > ul > li.price,.alt-style-2 .dots-holder > div span,.alt-style-2 .widget > h5:after,.alt-style-2 .widget .sub-menu li a:after,.alt-style-2  .widget .children li a:after,.alt-style-2 .price_slider_wrapper .ui-widget-content,.alt-style-2 .timeline > div:before,.alt-style-2 .border_grid > .row:after,.alt-style-2.border_grid .content_row:after{background-color:#ffffff}.alt-style-2 p.price del,.alt-style-2 .mozgaration_heading_wrapper.style-4 .punchline,.alt-style-2 .mozgaration_heading_wrapper.style-5 .punchline,.alt-style-2 .client_info,.alt-style-2 .blog_list .date_box,.alt-style-2 .post_data *,.alt-style-2 .comment-meta > a,.alt-style-2 .filter_navigation li a,.alt-style-2 .widget > ul > li li a,.alt-style-2 .widget .menu > li li a,.alt-style-2 .widget_latest_posts .meta,.alt-style-2  .widget_latest_posts .meta *,.alt-style-2 .widget_popular_posts .meta,.alt-style-2  .widget_popular_posts .meta *,.alt-style-2 .small.note,.alt-style-2  .star-rating span:before,.alt-style-2 .with_icons.style-2 > div > .icon,.alt-style-2 .chained_contents.style-1 > div > .icon,.alt-style-2 .chained_contents.style-1 > div > .number,.alt-style-2 .chained_contents.style-2 > div > .icon,.alt-style-2 .chained_contents.style-2 > div > .number,.alt-style-2 .read_more:before,.alt-style-2 .icon-content-box.icon-style-1 .icon-holder span:before,.alt-style-2 .quantity .plus,.alt-style-2  .quantity .minus,.alt-style-2 .woocommerce.widget .quantity,.alt-style-2#tools > ul > li:hover > span:first-child,.alt-style-2#tools > ul > li.active > span:first-child,.alt-style-2#tools > ul > li:hover:before,.alt-style-2#tools > ul > li.active:before,.alt-style-2 .latest_news .date,.alt-style-2 #mozgaration-side-navigation li a:hover,.alt-style-2 #mozgaration-side-navigation li.active > a,.alt-style-2 .tab_title:hover,.alt-style-2  .tab_title.active,.alt-style-2 .brochure-box i{color:#ffffff}.alt-style-2 .mozgaration_heading_wrapper.style-2 > .style-2:before,.alt-style-2 .mozgaration_heading .heading_icon:before,.alt-style-2 .highlight.style-1,.alt-style-2 .services-category h4,.alt-style-2 .paging_wrapper > .page-numbers .current,.alt-style-2 .single_variation span.price,.alt-style-2 .primary-color,.alt-style-2  .primary-color > a,.alt-style-2 .primary-color.mozgaration_heading,.alt-style-2 .icon-content-box.icon-style-4 .icon-holder span:before{color:#ff4400}.alt-style-2 .pricing_table .table_wrap.highlight > ul > li.caption,.alt-style-2 .pricing_table .table_wrap.highlight > ul > li.price,.alt-style-2 .button_.default:hover:after,.alt-style-2 .button_.color,.alt-style-2 .services-category a.info,.alt-style-2 .mozgaration-toggle > ol > li .toggle-number,.alt-style-2 .mozgaration_heading.style-1:after,.alt-style-2 .mozgaration_heading_wrapper.style-4 > .style-4:after,.alt-style-2 .mozgaration_heading_wrapper.style-5 > .style-5:after,.alt-style-2 .highlight.style-2,.alt-style-2 .dots-holder div.active span,.alt-style-2 .dots-holder div:hover span,.alt-style-2 input[type="submit"]:hover,.alt-style-2 input[type="button"]:hover,.alt-style-2 .comment-reply a:hover,.alt-style-2 .comment-reply-title small > a:hover,.alt-style-2 .action_buttons li a:hover,.alt-style-2 .onsale,.alt-style-2 .product_info_footer a.added_to_cart,.alt-style-2  button.button:hover,.alt-style-2  input.button:hover,.alt-style-2  #respond input#submit:hover,.alt-style-2  .cart_totals a.button:hover,.alt-style-2 .ui-slider .ui-slider-handle,.alt-style-2 .ui-slider .ui-slider-range,.alt-style-2 .with_icons.style-3 > div > .icon,.alt-style-2 .icon-content-box.icon-style-2 .icon-holder span:before,.alt-style-2 .icon-content-box.icon-style-3 .icon-holder span:before,.alt-style-2 .chained_contents > div:hover .icon,.alt-style-2 .chained_contents > div:hover .number,.alt-style-2 .mozgaration-md-content>h1,.alt-style-2 .mozgaration-md-content>h2,.alt-style-2 .mozgaration-md-content>h3,.alt-style-2 .mozgaration-md-content>h4,.alt-style-2 .mozgaration-md-content>h5,.alt-style-2 .mozgaration-md-content>h6{background-color:#ff4400}.alt-style-2 .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,.alt-style-2 .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,.alt-style-2 .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,.alt-style-2 .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,.alt-style-2 .filter_navigation li a.active,.alt-style-2 .button_.color,.alt-style-2 .chained_contents > div:hover .icon,.alt-style-2 .chained_contents > div:hover .number,.alt-style-2 .brochure-box{border-color:#ff4400}.alt-style-2 .with_icons.style-3 > div > .icon,.alt-style-2 .pricing_table .table_wrap.highlight > ul > li.caption,.alt-style-2 .pricing_table .table_wrap.highlight > ul > li.price,.alt-style-2 .button_.color,.alt-style-2 .services-category a.info,.alt-style-2 .style1 > .filter_navigation li a,.alt-style-2 .button_.default:hover,.alt-style-2 .mozgaration-toggle > ol > li .toggle-number,.alt-style-2 .icon-content-box.icon-style-2 .icon-holder span:before,.alt-style-2 .highlight.style-2,.alt-style-2 input[type="submit"],.alt-style-2 input[type="button"],.alt-style-2 button:not(.button_),.alt-style-2 button:not(.button_):hover,.alt-style-2 .cart_totals a.button,.alt-style-2 .cart_totals a.button:hover,.alt-style-2 .comment-reply a,.alt-style-2 .comment-reply-title small > a,.alt-style-2 .comment-reply-title small > a:hover,.alt-style-2 .product_info_footer a.added_to_cart,.alt-style-2 .product_info_footer a.added_to_cart:hover,.alt-style-2 .quantity .plus:hover,.alt-style-2 .quantity .minus:hover,.alt-style-2 .chained_contents > div:hover .icon,.alt-style-2 .chained_contents > div:hover .number,.alt-style-2 .icon-content-box.icon-style-3 .icon-holder span:before,.alt-style-2 .product_info_footer > a{color:#fff}.alt-style-2 .mozgaration_heading,.alt-style-2 h1,.alt-style-2 h2,.alt-style-2 h3,.alt-style-2 h4,.alt-style-2 h5,.alt-style-2 h6,.alt-style-2 h1 a,.alt-style-2 h2 a,.alt-style-2 h3 a,.alt-style-2 h4 a,.alt-style-2 h5 a,.alt-style-2 h6 a,.alt-style-2 h1 a:hover,.alt-style-2 h2 a:hover,.alt-style-2 h3 a:hover,.alt-style-2 h4 a:hover,.alt-style-2 h5 a:hover,.alt-style-2 h6 a:hover,.alt-style-2 .open .toggle-head,.alt-style-2 .style2 > .filter_navigation li a,.alt-style-2 .mozgaration-md-content>h1,.alt-style-2 .mozgaration-md-content>h2,.alt-style-2 .mozgaration-md-content>h3,.alt-style-2 .mozgaration-md-content>h4,.alt-style-2 .mozgaration-md-content>h5,.alt-style-2 .mozgaration-md-content>h6{color:#fff}.alt-style-2 input[type="submit"],.alt-style-2 input[type="button"],.alt-style-2 button:not(.button_),.alt-style-2 .comment-reply a,.alt-style-2 .style1 .filter_navigation li a,.alt-style-2 .comment-reply-title small > a,.alt-style-2 ul > li > div > span.close,.alt-style-2 button.button,.alt-style-2  input.button,.alt-style-2  #respond input#submit,.alt-style-2  .cart_totals a.button{background-color:#eafdab}.alt-style-2 .social_media li a,.alt-style-2 .filter_navigation li span.badge{background-color:#bbb}.sidebar-widgets a,.sidebar-widgets .latest_news .title:hover,.sidebar-widgets .woocommerce-MyAccount-navigation a:hover,.sidebar-widgets .product_info h5 a:hover,.sidebar-widgets .product-category a:hover h3,.sidebar-widgets .mozgaration_heading_wrapper a:hover .mozgaration_heading,.sidebar-widgets .paging_wrapper > .page-numbers a:hover,.sidebar-widgets .woocommerce-MyAccount-navigation .is-active a,.sidebar-widgets .timeline > div > .event-date{color:#fff}.sidebar-widgets:not(.has-custom-bg),.sidebar-widgets.column_container,.sidebar-widgets > .mozgaration-sa-background,.sidebar-widgets .chained_contents.style-1 > div > .icon,.sidebar-widgets .chained_contents.style-1 > div > .number,.sidebar-widgets .chained_contents.style-2 > div > .icon,.sidebar-widgets .chained_contents.style-2 > div > .number,.sidebar-widgets .button_.color:hover:after,.sidebar-widgets .quantity .minus,.sidebar-widgets .quantity .plus,.sidebar-widgets .mozgaration-md-content{background-color:rgba(255,255,255,0)}.sidebar-widgets,.sidebar-widgets .button_.default,.sidebar-widgets .button_.color:hover,.sidebar-widgets .paging_wrapper > .page-numbers a,.sidebar-widgets .paging_wrapper > .page-numbers li > span,.sidebar-widgets .author-name a,.sidebar-widgets .style2 > .filter_navigation li a.active,.sidebar-widgets .quantity .plus:hover,.sidebar-widgets .quantity .minus:hover,.sidebar-widgets .woocommerce-MyAccount-navigation a,.sidebar-widgets .brochure-box,.sidebar-widgets .brochure-box_text b{color:#fff}.sidebar-widgets,.sidebar-widgets *,.sidebar-widgets *:before,.sidebar-widgets *:after,.sidebar-widgets:before,.sidebar-widgets:after,.sidebar-widgets .button_.color:hover,.sidebar-widgets .brochure-box:hover{border-color:rgba(255,255,255,9)}.sidebar-widgets .mozgaration_divider.style-1:before,.sidebar-widgets .mozgaration_divider.style-2:before,.sidebar-widgets .mozgaration_divider.style-3:before,.sidebar-widgets .mozgaration_divider.style-5,.sidebar-widgets .mozgaration-toggle .toggle-head:after,.sidebar-widgets .testimonial .text .icon-quote-right,.sidebar-widgets .testimonial .text .icon-quote-left,.sidebar-widgets .mozgaration_quote .icon-quote-right,.sidebar-widgets .mozgaration_quote .icon-quote-left,.sidebar-widgets .star-rating:before,.sidebar-widgets  .cart-collaterals h2:before,.sidebar-widgets .timeline > div:before,.sidebar-widgets #mozgaration-side-navigation > li.menu-item-has-children a:after{color:rgba(255,255,255,9)}.sidebar-widgets .masonry .vertical_line,.sidebar-widgets .timeline:after,.sidebar-widgets .chained_contents.style-1:after,.sidebar-widgets .chained_contents.style-2:after,.sidebar-widgets .mozgaration_divider.style-2:after,.sidebar-widgets .mozgaration_divider.style-3:after,.sidebar-widgets .mozgaration_divider.style-4,.sidebar-widgets .pricing_table.compare .table_wrap > ul > li.caption,.sidebar-widgets .pricing_table.compare .table_wrap > ul > li.price,.sidebar-widgets .dots-holder > div span,.sidebar-widgets .widget > h5:after,.sidebar-widgets .widget .sub-menu li a:after,.sidebar-widgets  .widget .children li a:after,.sidebar-widgets .price_slider_wrapper .ui-widget-content,.sidebar-widgets .timeline > div:before,.sidebar-widgets .border_grid > .row:after,.sidebar-widgets.border_grid .content_row:after{background-color:rgba(255,255,255,9)}.sidebar-widgets p.price del,.sidebar-widgets .mozgaration_heading_wrapper.style-4 .punchline,.sidebar-widgets .mozgaration_heading_wrapper.style-5 .punchline,.sidebar-widgets .client_info,.sidebar-widgets .blog_list .date_box,.sidebar-widgets .post_data *,.sidebar-widgets .comment-meta > a,.sidebar-widgets .filter_navigation li a,.sidebar-widgets .widget > ul > li li a,.sidebar-widgets .widget .menu > li li a,.sidebar-widgets .widget_latest_posts .meta,.sidebar-widgets  .widget_latest_posts .meta *,.sidebar-widgets .widget_popular_posts .meta,.sidebar-widgets  .widget_popular_posts .meta *,.sidebar-widgets .small.note,.sidebar-widgets  .star-rating span:before,.sidebar-widgets .with_icons.style-2 > div > .icon,.sidebar-widgets .chained_contents.style-1 > div > .icon,.sidebar-widgets .chained_contents.style-1 > div > .number,.sidebar-widgets .chained_contents.style-2 > div > .icon,.sidebar-widgets .chained_contents.style-2 > div > .number,.sidebar-widgets .read_more:before,.sidebar-widgets .icon-content-box.icon-style-1 .icon-holder span:before,.sidebar-widgets .quantity .plus,.sidebar-widgets  .quantity .minus,.sidebar-widgets .woocommerce.widget .quantity,.sidebar-widgets#tools > ul > li:hover > span:first-child,.sidebar-widgets#tools > ul > li.active > span:first-child,.sidebar-widgets#tools > ul > li:hover:before,.sidebar-widgets#tools > ul > li.active:before,.sidebar-widgets .latest_news .date,.sidebar-widgets #mozgaration-side-navigation li a:hover,.sidebar-widgets #mozgaration-side-navigation li.active > a,.sidebar-widgets .tab_title:hover,.sidebar-widgets  .tab_title.active,.sidebar-widgets .brochure-box i{color:#fdfbfb}.sidebar-widgets .mozgaration_heading_wrapper.style-2 > .style-2:before,.sidebar-widgets .mozgaration_heading .heading_icon:before,.sidebar-widgets .highlight.style-1,.sidebar-widgets .services-category h4,.sidebar-widgets .paging_wrapper > .page-numbers .current,.sidebar-widgets .single_variation span.price,.sidebar-widgets .primary-color,.sidebar-widgets  .primary-color > a,.sidebar-widgets .primary-color.mozgaration_heading,.sidebar-widgets .icon-content-box.icon-style-4 .icon-holder span:before{color:#ff4400}.sidebar-widgets .pricing_table .table_wrap.highlight > ul > li.caption,.sidebar-widgets .pricing_table .table_wrap.highlight > ul > li.price,.sidebar-widgets .button_.default:hover:after,.sidebar-widgets .button_.color,.sidebar-widgets .services-category a.info,.sidebar-widgets .mozgaration-toggle > ol > li .toggle-number,.sidebar-widgets .mozgaration_heading.style-1:after,.sidebar-widgets .mozgaration_heading_wrapper.style-4 > .style-4:after,.sidebar-widgets .mozgaration_heading_wrapper.style-5 > .style-5:after,.sidebar-widgets .highlight.style-2,.sidebar-widgets .dots-holder div.active span,.sidebar-widgets .dots-holder div:hover span,.sidebar-widgets input[type="submit"]:hover,.sidebar-widgets input[type="button"]:hover,.sidebar-widgets .comment-reply a:hover,.sidebar-widgets .comment-reply-title small > a:hover,.sidebar-widgets .action_buttons li a:hover,.sidebar-widgets .onsale,.sidebar-widgets .product_info_footer a.added_to_cart,.sidebar-widgets  button.button:hover,.sidebar-widgets  input.button:hover,.sidebar-widgets  #respond input#submit:hover,.sidebar-widgets  .cart_totals a.button:hover,.sidebar-widgets .ui-slider .ui-slider-handle,.sidebar-widgets .ui-slider .ui-slider-range,.sidebar-widgets .with_icons.style-3 > div > .icon,.sidebar-widgets .icon-content-box.icon-style-2 .icon-holder span:before,.sidebar-widgets .icon-content-box.icon-style-3 .icon-holder span:before,.sidebar-widgets .chained_contents > div:hover .icon,.sidebar-widgets .chained_contents > div:hover .number,.sidebar-widgets .mozgaration-md-content>h1,.sidebar-widgets .mozgaration-md-content>h2,.sidebar-widgets .mozgaration-md-content>h3,.sidebar-widgets .mozgaration-md-content>h4,.sidebar-widgets .mozgaration-md-content>h5,.sidebar-widgets .mozgaration-md-content>h6{background-color:#ff4400}.sidebar-widgets .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,.sidebar-widgets .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,.sidebar-widgets .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,.sidebar-widgets .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,.sidebar-widgets .filter_navigation li a.active,.sidebar-widgets .button_.color,.sidebar-widgets .chained_contents > div:hover .icon,.sidebar-widgets .chained_contents > div:hover .number,.sidebar-widgets .brochure-box{border-color:#ff4400}.sidebar-widgets .with_icons.style-3 > div > .icon,.sidebar-widgets .pricing_table .table_wrap.highlight > ul > li.caption,.sidebar-widgets .pricing_table .table_wrap.highlight > ul > li.price,.sidebar-widgets .button_.color,.sidebar-widgets .services-category a.info,.sidebar-widgets .style1 > .filter_navigation li a,.sidebar-widgets .button_.default:hover,.sidebar-widgets .mozgaration-toggle > ol > li .toggle-number,.sidebar-widgets .icon-content-box.icon-style-2 .icon-holder span:before,.sidebar-widgets .highlight.style-2,.sidebar-widgets input[type="submit"],.sidebar-widgets input[type="button"],.sidebar-widgets button:not(.button_),.sidebar-widgets button:not(.button_):hover,.sidebar-widgets .cart_totals a.button,.sidebar-widgets .cart_totals a.button:hover,.sidebar-widgets .comment-reply a,.sidebar-widgets .comment-reply-title small > a,.sidebar-widgets .comment-reply-title small > a:hover,.sidebar-widgets .product_info_footer a.added_to_cart,.sidebar-widgets .product_info_footer a.added_to_cart:hover,.sidebar-widgets .quantity .plus:hover,.sidebar-widgets .quantity .minus:hover,.sidebar-widgets .chained_contents > div:hover .icon,.sidebar-widgets .chained_contents > div:hover .number,.sidebar-widgets .icon-content-box.icon-style-3 .icon-holder span:before,.sidebar-widgets .product_info_footer > a{color:#fff}.sidebar-widgets .mozgaration_heading,.sidebar-widgets h1,.sidebar-widgets h2,.sidebar-widgets h3,.sidebar-widgets h4,.sidebar-widgets h5,.sidebar-widgets h6,.sidebar-widgets h1 a,.sidebar-widgets h2 a,.sidebar-widgets h3 a,.sidebar-widgets h4 a,.sidebar-widgets h5 a,.sidebar-widgets h6 a,.sidebar-widgets h1 a:hover,.sidebar-widgets h2 a:hover,.sidebar-widgets h3 a:hover,.sidebar-widgets h4 a:hover,.sidebar-widgets h5 a:hover,.sidebar-widgets h6 a:hover,.sidebar-widgets .open .toggle-head,.sidebar-widgets .style2 > .filter_navigation li a,.sidebar-widgets .mozgaration-md-content>h1,.sidebar-widgets .mozgaration-md-content>h2,.sidebar-widgets .mozgaration-md-content>h3,.sidebar-widgets .mozgaration-md-content>h4,.sidebar-widgets .mozgaration-md-content>h5,.sidebar-widgets .mozgaration-md-content>h6{color:#fff}.sidebar-widgets input[type="submit"],.sidebar-widgets input[type="button"],.sidebar-widgets button:not(.button_),.sidebar-widgets .comment-reply a,.sidebar-widgets .style1 .filter_navigation li a,.sidebar-widgets .comment-reply-title small > a,.sidebar-widgets ul > li > div > span.close,.sidebar-widgets button.button,.sidebar-widgets  input.button,.sidebar-widgets  #respond input#submit,.sidebar-widgets  .cart_totals a.button{background-color:#ff4400}.sidebar-widgets .social_media li a,.sidebar-widgets .filter_navigation li span.badge{background-color:#ff4400}#right-fix a,#right-fix .latest_news .title:hover,#right-fix .woocommerce-MyAccount-navigation a:hover,#right-fix .product_info h5 a:hover,#right-fix .product-category a:hover h3,#right-fix .mozgaration_heading_wrapper a:hover .mozgaration_heading,#right-fix .paging_wrapper > .page-numbers a:hover,#right-fix .woocommerce-MyAccount-navigation .is-active a,#right-fix .timeline > div > .event-date{color:#fff}#right-fix:not(.has-custom-bg),#right-fix.column_container,#right-fix > .mozgaration-sa-background,#right-fix .chained_contents.style-1 > div > .icon,#right-fix .chained_contents.style-1 > div > .number,#right-fix .chained_contents.style-2 > div > .icon,#right-fix .chained_contents.style-2 > div > .number,#right-fix .button_.color:hover:after,#right-fix .quantity .minus,#right-fix .quantity .plus,#right-fix .mozgaration-md-content{background-color:rgba(255,255,255,0)}#right-fix,#right-fix .button_.default,#right-fix .button_.color:hover,#right-fix .paging_wrapper > .page-numbers a,#right-fix .paging_wrapper > .page-numbers li > span,#right-fix .author-name a,#right-fix .style2 > .filter_navigation li a.active,#right-fix .quantity .plus:hover,#right-fix .quantity .minus:hover,#right-fix .woocommerce-MyAccount-navigation a,#right-fix .brochure-box,#right-fix .brochure-box_text b{color:#ffffff}#right-fix,#right-fix *,#right-fix *:before,#right-fix *:after,#right-fix:before,#right-fix:after,#right-fix .button_.color:hover,#right-fix .brochure-box:hover{border-color:rgba(255,255,255,1)}#right-fix .mozgaration_divider.style-1:before,#right-fix .mozgaration_divider.style-2:before,#right-fix .mozgaration_divider.style-3:before,#right-fix .mozgaration_divider.style-5,#right-fix .mozgaration-toggle .toggle-head:after,#right-fix .testimonial .text .icon-quote-right,#right-fix .testimonial .text .icon-quote-left,#right-fix .mozgaration_quote .icon-quote-right,#right-fix .mozgaration_quote .icon-quote-left,#right-fix .star-rating:before,#right-fix  .cart-collaterals h2:before,#right-fix .timeline > div:before,#right-fix #mozgaration-side-navigation > li.menu-item-has-children a:after{color:rgba(255,255,255,1)}#right-fix .masonry .vertical_line,#right-fix .timeline:after,#right-fix .chained_contents.style-1:after,#right-fix .chained_contents.style-2:after,#right-fix .mozgaration_divider.style-2:after,#right-fix .mozgaration_divider.style-3:after,#right-fix .mozgaration_divider.style-4,#right-fix .pricing_table.compare .table_wrap > ul > li.caption,#right-fix .pricing_table.compare .table_wrap > ul > li.price,#right-fix .dots-holder > div span,#right-fix .widget > h5:after,#right-fix .widget .sub-menu li a:after,#right-fix  .widget .children li a:after,#right-fix .price_slider_wrapper .ui-widget-content,#right-fix .timeline > div:before,#right-fix .border_grid > .row:after,#right-fix.border_grid .content_row:after{background-color:rgba(255,255,255,1)}#right-fix p.price del,#right-fix .mozgaration_heading_wrapper.style-4 .punchline,#right-fix .mozgaration_heading_wrapper.style-5 .punchline,#right-fix .client_info,#right-fix .blog_list .date_box,#right-fix .post_data *,#right-fix .comment-meta > a,#right-fix .filter_navigation li a,#right-fix .widget > ul > li li a,#right-fix .widget .menu > li li a,#right-fix .widget_latest_posts .meta,#right-fix  .widget_latest_posts .meta *,#right-fix .widget_popular_posts .meta,#right-fix  .widget_popular_posts .meta *,#right-fix .small.note,#right-fix  .star-rating span:before,#right-fix .with_icons.style-2 > div > .icon,#right-fix .chained_contents.style-1 > div > .icon,#right-fix .chained_contents.style-1 > div > .number,#right-fix .chained_contents.style-2 > div > .icon,#right-fix .chained_contents.style-2 > div > .number,#right-fix .read_more:before,#right-fix .icon-content-box.icon-style-1 .icon-holder span:before,#right-fix .quantity .plus,#right-fix  .quantity .minus,#right-fix .woocommerce.widget .quantity,#right-fix#tools > ul > li:hover > span:first-child,#right-fix#tools > ul > li.active > span:first-child,#right-fix#tools > ul > li:hover:before,#right-fix#tools > ul > li.active:before,#right-fix .latest_news .date,#right-fix #mozgaration-side-navigation li a:hover,#right-fix #mozgaration-side-navigation li.active > a,#right-fix .tab_title:hover,#right-fix  .tab_title.active,#right-fix .brochure-box i{color:#191717}#right-fix .mozgaration_heading_wrapper.style-2 > .style-2:before,#right-fix .mozgaration_heading .heading_icon:before,#right-fix .highlight.style-1,#right-fix .services-category h4,#right-fix .paging_wrapper > .page-numbers .current,#right-fix .single_variation span.price,#right-fix .primary-color,#right-fix  .primary-color > a,#right-fix .primary-color.mozgaration_heading,#right-fix .icon-content-box.icon-style-4 .icon-holder span:before{color:#ff4400}#right-fix .pricing_table .table_wrap.highlight > ul > li.caption,#right-fix .pricing_table .table_wrap.highlight > ul > li.price,#right-fix .button_.default:hover:after,#right-fix .button_.color,#right-fix .services-category a.info,#right-fix .mozgaration-toggle > ol > li .toggle-number,#right-fix .mozgaration_heading.style-1:after,#right-fix .mozgaration_heading_wrapper.style-4 > .style-4:after,#right-fix .mozgaration_heading_wrapper.style-5 > .style-5:after,#right-fix .highlight.style-2,#right-fix .dots-holder div.active span,#right-fix .dots-holder div:hover span,#right-fix input[type="submit"]:hover,#right-fix input[type="button"]:hover,#right-fix .comment-reply a:hover,#right-fix .comment-reply-title small > a:hover,#right-fix .action_buttons li a:hover,#right-fix .onsale,#right-fix .product_info_footer a.added_to_cart,#right-fix  button.button:hover,#right-fix  input.button:hover,#right-fix  #respond input#submit:hover,#right-fix  .cart_totals a.button:hover,#right-fix .ui-slider .ui-slider-handle,#right-fix .ui-slider .ui-slider-range,#right-fix .with_icons.style-3 > div > .icon,#right-fix .icon-content-box.icon-style-2 .icon-holder span:before,#right-fix .icon-content-box.icon-style-3 .icon-holder span:before,#right-fix .chained_contents > div:hover .icon,#right-fix .chained_contents > div:hover .number,#right-fix .mozgaration-md-content>h1,#right-fix .mozgaration-md-content>h2,#right-fix .mozgaration-md-content>h3,#right-fix .mozgaration-md-content>h4,#right-fix .mozgaration-md-content>h5,#right-fix .mozgaration-md-content>h6{background-color:#ff4400}#right-fix .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,#right-fix .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,#right-fix .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,#right-fix .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,#right-fix .filter_navigation li a.active,#right-fix .button_.color,#right-fix .chained_contents > div:hover .icon,#right-fix .chained_contents > div:hover .number,#right-fix .brochure-box{border-color:#ff4400}#right-fix .with_icons.style-3 > div > .icon,#right-fix .pricing_table .table_wrap.highlight > ul > li.caption,#right-fix .pricing_table .table_wrap.highlight > ul > li.price,#right-fix .button_.color,#right-fix .services-category a.info,#right-fix .style1 > .filter_navigation li a,#right-fix .button_.default:hover,#right-fix .mozgaration-toggle > ol > li .toggle-number,#right-fix .icon-content-box.icon-style-2 .icon-holder span:before,#right-fix .highlight.style-2,#right-fix input[type="submit"],#right-fix input[type="button"],#right-fix button:not(.button_),#right-fix button:not(.button_):hover,#right-fix .cart_totals a.button,#right-fix .cart_totals a.button:hover,#right-fix .comment-reply a,#right-fix .comment-reply-title small > a,#right-fix .comment-reply-title small > a:hover,#right-fix .product_info_footer a.added_to_cart,#right-fix .product_info_footer a.added_to_cart:hover,#right-fix .quantity .plus:hover,#right-fix .quantity .minus:hover,#right-fix .chained_contents > div:hover .icon,#right-fix .chained_contents > div:hover .number,#right-fix .icon-content-box.icon-style-3 .icon-holder span:before,#right-fix .product_info_footer > a{color:#fff}#right-fix .mozgaration_heading,#right-fix h1,#right-fix h2,#right-fix h3,#right-fix h4,#right-fix h5,#right-fix h6,#right-fix h1 a,#right-fix h2 a,#right-fix h3 a,#right-fix h4 a,#right-fix h5 a,#right-fix h6 a,#right-fix h1 a:hover,#right-fix h2 a:hover,#right-fix h3 a:hover,#right-fix h4 a:hover,#right-fix h5 a:hover,#right-fix h6 a:hover,#right-fix .open .toggle-head,#right-fix .style2 > .filter_navigation li a,#right-fix .mozgaration-md-content>h1,#right-fix .mozgaration-md-content>h2,#right-fix .mozgaration-md-content>h3,#right-fix .mozgaration-md-content>h4,#right-fix .mozgaration-md-content>h5,#right-fix .mozgaration-md-content>h6{color:#fff}#right-fix input[type="submit"],#right-fix input[type="button"],#right-fix button:not(.button_),#right-fix .comment-reply a,#right-fix .style1 .filter_navigation li a,#right-fix .comment-reply-title small > a,#right-fix ul > li > div > span.close,#right-fix button.button,#right-fix  input.button,#right-fix  #respond input#submit,#right-fix  .cart_totals a.button{background-color:#ff4400}#right-fix .social_media li a,#right-fix .filter_navigation li span.badge{background-color:#ff4400}.light-style a,.light-style .latest_news .title:hover,.light-style .woocommerce-MyAccount-navigation a:hover,.light-style .product_info h5 a:hover,.light-style .product-category a:hover h3,.light-style .mozgaration_heading_wrapper a:hover .mozgaration_heading,.light-style .paging_wrapper > .page-numbers a:hover,.light-style .woocommerce-MyAccount-navigation .is-active a,.light-style .timeline > div > .event-date{color:#fff}.light-style:not(.has-custom-bg),.light-style.column_container,.light-style > .mozgaration-sa-background,.light-style .chained_contents.style-1 > div > .icon,.light-style .chained_contents.style-1 > div > .number,.light-style .chained_contents.style-2 > div > .icon,.light-style .chained_contents.style-2 > div > .number,.light-style .button_.color:hover:after,.light-style .quantity .minus,.light-style .quantity .plus,.light-style .mozgaration-md-content{background-color:#ff4400}.light-style,.light-style .button_.default,.light-style .button_.color:hover,.light-style .paging_wrapper > .page-numbers a,.light-style .paging_wrapper > .page-numbers li > span,.light-style .author-name a,.light-style .style2 > .filter_navigation li a.active,.light-style .quantity .plus:hover,.light-style .quantity .minus:hover,.light-style .woocommerce-MyAccount-navigation a,.light-style .brochure-box,.light-style .brochure-box_text b{color:#fff}.light-style,.light-style *,.light-style *:before,.light-style *:after,.light-style:before,.light-style:after,.light-style .button_.color:hover,.light-style .brochure-box:hover{border-color:#ffffff}.light-style .mozgaration_divider.style-1:before,.light-style .mozgaration_divider.style-2:before,.light-style .mozgaration_divider.style-3:before,.light-style .mozgaration_divider.style-5,.light-style .mozgaration-toggle .toggle-head:after,.light-style .testimonial .text .icon-quote-right,.light-style .testimonial .text .icon-quote-left,.light-style .mozgaration_quote .icon-quote-right,.light-style .mozgaration_quote .icon-quote-left,.light-style .star-rating:before,.light-style  .cart-collaterals h2:before,.light-style .timeline > div:before,.light-style #mozgaration-side-navigation > li.menu-item-has-children a:after{color:#ffffff}.light-style .masonry .vertical_line,.light-style .timeline:after,.light-style .chained_contents.style-1:after,.light-style .chained_contents.style-2:after,.light-style .mozgaration_divider.style-2:after,.light-style .mozgaration_divider.style-3:after,.light-style .mozgaration_divider.style-4,.light-style .pricing_table.compare .table_wrap > ul > li.caption,.light-style .pricing_table.compare .table_wrap > ul > li.price,.light-style .dots-holder > div span,.light-style .widget > h5:after,.light-style .widget .sub-menu li a:after,.light-style  .widget .children li a:after,.light-style .price_slider_wrapper .ui-widget-content,.light-style .timeline > div:before,.light-style .border_grid > .row:after,.light-style.border_grid .content_row:after{background-color:#ffffff}.light-style p.price del,.light-style .mozgaration_heading_wrapper.style-4 .punchline,.light-style .mozgaration_heading_wrapper.style-5 .punchline,.light-style .client_info,.light-style .blog_list .date_box,.light-style .post_data *,.light-style .comment-meta > a,.light-style .filter_navigation li a,.light-style .widget > ul > li li a,.light-style .widget .menu > li li a,.light-style .widget_latest_posts .meta,.light-style  .widget_latest_posts .meta *,.light-style .widget_popular_posts .meta,.light-style  .widget_popular_posts .meta *,.light-style .small.note,.light-style  .star-rating span:before,.light-style .with_icons.style-2 > div > .icon,.light-style .chained_contents.style-1 > div > .icon,.light-style .chained_contents.style-1 > div > .number,.light-style .chained_contents.style-2 > div > .icon,.light-style .chained_contents.style-2 > div > .number,.light-style .read_more:before,.light-style .icon-content-box.icon-style-1 .icon-holder span:before,.light-style .quantity .plus,.light-style  .quantity .minus,.light-style .woocommerce.widget .quantity,.light-style#tools > ul > li:hover > span:first-child,.light-style#tools > ul > li.active > span:first-child,.light-style#tools > ul > li:hover:before,.light-style#tools > ul > li.active:before,.light-style .latest_news .date,.light-style #mozgaration-side-navigation li a:hover,.light-style #mozgaration-side-navigation li.active > a,.light-style .tab_title:hover,.light-style  .tab_title.active,.light-style .brochure-box i{color:#fff}.light-style .mozgaration_heading_wrapper.style-2 > .style-2:before,.light-style .mozgaration_heading .heading_icon:before,.light-style .highlight.style-1,.light-style .services-category h4,.light-style .paging_wrapper > .page-numbers .current,.light-style .single_variation span.price,.light-style .primary-color,.light-style  .primary-color > a,.light-style .primary-color.mozgaration_heading,.light-style .icon-content-box.icon-style-4 .icon-holder span:before{color:#1b2430}.light-style .pricing_table .table_wrap.highlight > ul > li.caption,.light-style .pricing_table .table_wrap.highlight > ul > li.price,.light-style .button_.default:hover:after,.light-style .button_.color,.light-style .services-category a.info,.light-style .mozgaration-toggle > ol > li .toggle-number,.light-style .mozgaration_heading.style-1:after,.light-style .mozgaration_heading_wrapper.style-4 > .style-4:after,.light-style .mozgaration_heading_wrapper.style-5 > .style-5:after,.light-style .highlight.style-2,.light-style .dots-holder div.active span,.light-style .dots-holder div:hover span,.light-style input[type="submit"]:hover,.light-style input[type="button"]:hover,.light-style .comment-reply a:hover,.light-style .comment-reply-title small > a:hover,.light-style .action_buttons li a:hover,.light-style .onsale,.light-style .product_info_footer a.added_to_cart,.light-style  button.button:hover,.light-style  input.button:hover,.light-style  #respond input#submit:hover,.light-style  .cart_totals a.button:hover,.light-style .ui-slider .ui-slider-handle,.light-style .ui-slider .ui-slider-range,.light-style .with_icons.style-3 > div > .icon,.light-style .icon-content-box.icon-style-2 .icon-holder span:before,.light-style .icon-content-box.icon-style-3 .icon-holder span:before,.light-style .chained_contents > div:hover .icon,.light-style .chained_contents > div:hover .number,.light-style .mozgaration-md-content>h1,.light-style .mozgaration-md-content>h2,.light-style .mozgaration-md-content>h3,.light-style .mozgaration-md-content>h4,.light-style .mozgaration-md-content>h5,.light-style .mozgaration-md-content>h6{background-color:#1b2430}.light-style .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,.light-style .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,.light-style .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,.light-style .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,.light-style .filter_navigation li a.active,.light-style .button_.color,.light-style .chained_contents > div:hover .icon,.light-style .chained_contents > div:hover .number,.light-style .brochure-box{border-color:#1b2430}.light-style .with_icons.style-3 > div > .icon,.light-style .pricing_table .table_wrap.highlight > ul > li.caption,.light-style .pricing_table .table_wrap.highlight > ul > li.price,.light-style .button_.color,.light-style .services-category a.info,.light-style .style1 > .filter_navigation li a,.light-style .button_.default:hover,.light-style .mozgaration-toggle > ol > li .toggle-number,.light-style .icon-content-box.icon-style-2 .icon-holder span:before,.light-style .highlight.style-2,.light-style input[type="submit"],.light-style input[type="button"],.light-style button:not(.button_),.light-style button:not(.button_):hover,.light-style .cart_totals a.button,.light-style .cart_totals a.button:hover,.light-style .comment-reply a,.light-style .comment-reply-title small > a,.light-style .comment-reply-title small > a:hover,.light-style .product_info_footer a.added_to_cart,.light-style .product_info_footer a.added_to_cart:hover,.light-style .quantity .plus:hover,.light-style .quantity .minus:hover,.light-style .chained_contents > div:hover .icon,.light-style .chained_contents > div:hover .number,.light-style .icon-content-box.icon-style-3 .icon-holder span:before,.light-style .product_info_footer > a{color:#fff}.light-style .mozgaration_heading,.light-style h1,.light-style h2,.light-style h3,.light-style h4,.light-style h5,.light-style h6,.light-style h1 a,.light-style h2 a,.light-style h3 a,.light-style h4 a,.light-style h5 a,.light-style h6 a,.light-style h1 a:hover,.light-style h2 a:hover,.light-style h3 a:hover,.light-style h4 a:hover,.light-style h5 a:hover,.light-style h6 a:hover,.light-style .open .toggle-head,.light-style .style2 > .filter_navigation li a,.light-style .mozgaration-md-content>h1,.light-style .mozgaration-md-content>h2,.light-style .mozgaration-md-content>h3,.light-style .mozgaration-md-content>h4,.light-style .mozgaration-md-content>h5,.light-style .mozgaration-md-content>h6{color:#fff}.light-style input[type="submit"],.light-style input[type="button"],.light-style button:not(.button_),.light-style .comment-reply a,.light-style .style1 .filter_navigation li a,.light-style .comment-reply-title small > a,.light-style ul > li > div > span.close,.light-style button.button,.light-style  input.button,.light-style  #respond input#submit,.light-style  .cart_totals a.button{background-color:rgba(55,55,55,0.78)}.light-style .social_media li a,.light-style .filter_navigation li span.badge{background-color:#bbb}.dark-style a,.dark-style .latest_news .title:hover,.dark-style .woocommerce-MyAccount-navigation a:hover,.dark-style .product_info h5 a:hover,.dark-style .product-category a:hover h3,.dark-style .mozgaration_heading_wrapper a:hover .mozgaration_heading,.dark-style .paging_wrapper > .page-numbers a:hover,.dark-style .woocommerce-MyAccount-navigation .is-active a,.dark-style .timeline > div > .event-date{color:#000}.dark-style:not(.has-custom-bg),.dark-style.column_container,.dark-style > .mozgaration-sa-background,.dark-style .chained_contents.style-1 > div > .icon,.dark-style .chained_contents.style-1 > div > .number,.dark-style .chained_contents.style-2 > div > .icon,.dark-style .chained_contents.style-2 > div > .number,.dark-style .button_.color:hover:after,.dark-style .quantity .minus,.dark-style .quantity .plus,.dark-style .mozgaration-md-content{background-color:#fff}.dark-style,.dark-style .button_.default,.dark-style .button_.color:hover,.dark-style .paging_wrapper > .page-numbers a,.dark-style .paging_wrapper > .page-numbers li > span,.dark-style .author-name a,.dark-style .style2 > .filter_navigation li a.active,.dark-style .quantity .plus:hover,.dark-style .quantity .minus:hover,.dark-style .woocommerce-MyAccount-navigation a,.dark-style .brochure-box,.dark-style .brochure-box_text b{color:#000}.dark-style,.dark-style *,.dark-style *:before,.dark-style *:after,.dark-style:before,.dark-style:after,.dark-style .button_.color:hover,.dark-style .brochure-box:hover{border-color:rgba(0,0,0,0.8)}.dark-style .mozgaration_divider.style-1:before,.dark-style .mozgaration_divider.style-2:before,.dark-style .mozgaration_divider.style-3:before,.dark-style .mozgaration_divider.style-5,.dark-style .mozgaration-toggle .toggle-head:after,.dark-style .testimonial .text .icon-quote-right,.dark-style .testimonial .text .icon-quote-left,.dark-style .mozgaration_quote .icon-quote-right,.dark-style .mozgaration_quote .icon-quote-left,.dark-style .star-rating:before,.dark-style  .cart-collaterals h2:before,.dark-style .timeline > div:before,.dark-style #mozgaration-side-navigation > li.menu-item-has-children a:after{color:rgba(0,0,0,0.8)}.dark-style .masonry .vertical_line,.dark-style .timeline:after,.dark-style .chained_contents.style-1:after,.dark-style .chained_contents.style-2:after,.dark-style .mozgaration_divider.style-2:after,.dark-style .mozgaration_divider.style-3:after,.dark-style .mozgaration_divider.style-4,.dark-style .pricing_table.compare .table_wrap > ul > li.caption,.dark-style .pricing_table.compare .table_wrap > ul > li.price,.dark-style .dots-holder > div span,.dark-style .widget > h5:after,.dark-style .widget .sub-menu li a:after,.dark-style  .widget .children li a:after,.dark-style .price_slider_wrapper .ui-widget-content,.dark-style .timeline > div:before,.dark-style .border_grid > .row:after,.dark-style.border_grid .content_row:after{background-color:rgba(0,0,0,0.8)}.dark-style p.price del,.dark-style .mozgaration_heading_wrapper.style-4 .punchline,.dark-style .mozgaration_heading_wrapper.style-5 .punchline,.dark-style .client_info,.dark-style .blog_list .date_box,.dark-style .post_data *,.dark-style .comment-meta > a,.dark-style .filter_navigation li a,.dark-style .widget > ul > li li a,.dark-style .widget .menu > li li a,.dark-style .widget_latest_posts .meta,.dark-style  .widget_latest_posts .meta *,.dark-style .widget_popular_posts .meta,.dark-style  .widget_popular_posts .meta *,.dark-style .small.note,.dark-style  .star-rating span:before,.dark-style .with_icons.style-2 > div > .icon,.dark-style .chained_contents.style-1 > div > .icon,.dark-style .chained_contents.style-1 > div > .number,.dark-style .chained_contents.style-2 > div > .icon,.dark-style .chained_contents.style-2 > div > .number,.dark-style .read_more:before,.dark-style .icon-content-box.icon-style-1 .icon-holder span:before,.dark-style .quantity .plus,.dark-style  .quantity .minus,.dark-style .woocommerce.widget .quantity,.dark-style#tools > ul > li:hover > span:first-child,.dark-style#tools > ul > li.active > span:first-child,.dark-style#tools > ul > li:hover:before,.dark-style#tools > ul > li.active:before,.dark-style .latest_news .date,.dark-style #mozgaration-side-navigation li a:hover,.dark-style #mozgaration-side-navigation li.active > a,.dark-style .tab_title:hover,.dark-style  .tab_title.active,.dark-style .brochure-box i{color:#000}.dark-style .mozgaration_heading_wrapper.style-2 > .style-2:before,.dark-style .mozgaration_heading .heading_icon:before,.dark-style .highlight.style-1,.dark-style .services-category h4,.dark-style .paging_wrapper > .page-numbers .current,.dark-style .single_variation span.price,.dark-style .primary-color,.dark-style  .primary-color > a,.dark-style .primary-color.mozgaration_heading,.dark-style .icon-content-box.icon-style-4 .icon-holder span:before{color:rgba(0,0,0,0.5)}.dark-style .pricing_table .table_wrap.highlight > ul > li.caption,.dark-style .pricing_table .table_wrap.highlight > ul > li.price,.dark-style .button_.default:hover:after,.dark-style .button_.color,.dark-style .services-category a.info,.dark-style .mozgaration-toggle > ol > li .toggle-number,.dark-style .mozgaration_heading.style-1:after,.dark-style .mozgaration_heading_wrapper.style-4 > .style-4:after,.dark-style .mozgaration_heading_wrapper.style-5 > .style-5:after,.dark-style .highlight.style-2,.dark-style .dots-holder div.active span,.dark-style .dots-holder div:hover span,.dark-style input[type="submit"]:hover,.dark-style input[type="button"]:hover,.dark-style .comment-reply a:hover,.dark-style .comment-reply-title small > a:hover,.dark-style .action_buttons li a:hover,.dark-style .onsale,.dark-style .product_info_footer a.added_to_cart,.dark-style  button.button:hover,.dark-style  input.button:hover,.dark-style  #respond input#submit:hover,.dark-style  .cart_totals a.button:hover,.dark-style .ui-slider .ui-slider-handle,.dark-style .ui-slider .ui-slider-range,.dark-style .with_icons.style-3 > div > .icon,.dark-style .icon-content-box.icon-style-2 .icon-holder span:before,.dark-style .icon-content-box.icon-style-3 .icon-holder span:before,.dark-style .chained_contents > div:hover .icon,.dark-style .chained_contents > div:hover .number,.dark-style .mozgaration-md-content>h1,.dark-style .mozgaration-md-content>h2,.dark-style .mozgaration-md-content>h3,.dark-style .mozgaration-md-content>h4,.dark-style .mozgaration-md-content>h5,.dark-style .mozgaration-md-content>h6{background-color:rgba(0,0,0,0.5)}.dark-style .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,.dark-style .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,.dark-style .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,.dark-style .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,.dark-style .filter_navigation li a.active,.dark-style .button_.color,.dark-style .chained_contents > div:hover .icon,.dark-style .chained_contents > div:hover .number,.dark-style .brochure-box{border-color:rgba(0,0,0,0.5)}.dark-style .with_icons.style-3 > div > .icon,.dark-style .pricing_table .table_wrap.highlight > ul > li.caption,.dark-style .pricing_table .table_wrap.highlight > ul > li.price,.dark-style .button_.color,.dark-style .services-category a.info,.dark-style .style1 > .filter_navigation li a,.dark-style .button_.default:hover,.dark-style .mozgaration-toggle > ol > li .toggle-number,.dark-style .icon-content-box.icon-style-2 .icon-holder span:before,.dark-style .highlight.style-2,.dark-style input[type="submit"],.dark-style input[type="button"],.dark-style button:not(.button_),.dark-style button:not(.button_):hover,.dark-style .cart_totals a.button,.dark-style .cart_totals a.button:hover,.dark-style .comment-reply a,.dark-style .comment-reply-title small > a,.dark-style .comment-reply-title small > a:hover,.dark-style .product_info_footer a.added_to_cart,.dark-style .product_info_footer a.added_to_cart:hover,.dark-style .quantity .plus:hover,.dark-style .quantity .minus:hover,.dark-style .chained_contents > div:hover .icon,.dark-style .chained_contents > div:hover .number,.dark-style .icon-content-box.icon-style-3 .icon-holder span:before,.dark-style .product_info_footer > a{color:#000}.dark-style .mozgaration_heading,.dark-style h1,.dark-style h2,.dark-style h3,.dark-style h4,.dark-style h5,.dark-style h6,.dark-style h1 a,.dark-style h2 a,.dark-style h3 a,.dark-style h4 a,.dark-style h5 a,.dark-style h6 a,.dark-style h1 a:hover,.dark-style h2 a:hover,.dark-style h3 a:hover,.dark-style h4 a:hover,.dark-style h5 a:hover,.dark-style h6 a:hover,.dark-style .open .toggle-head,.dark-style .style2 > .filter_navigation li a,.dark-style .mozgaration-md-content>h1,.dark-style .mozgaration-md-content>h2,.dark-style .mozgaration-md-content>h3,.dark-style .mozgaration-md-content>h4,.dark-style .mozgaration-md-content>h5,.dark-style .mozgaration-md-content>h6{color:#000}.dark-style input[type="submit"],.dark-style input[type="button"],.dark-style button:not(.button_),.dark-style .comment-reply a,.dark-style .style1 .filter_navigation li a,.dark-style .comment-reply-title small > a,.dark-style ul > li > div > span.close,.dark-style button.button,.dark-style  input.button,.dark-style  #respond input#submit,.dark-style  .cart_totals a.button{background-color:rgba(55,55,55,0.78)}.dark-style .social_media li a,.dark-style .filter_navigation li span.badge{background-color:#000}.footer_contents a,.footer_contents .latest_news .title:hover,.footer_contents .woocommerce-MyAccount-navigation a:hover,.footer_contents .product_info h5 a:hover,.footer_contents .product-category a:hover h3,.footer_contents .mozgaration_heading_wrapper a:hover .mozgaration_heading,.footer_contents .paging_wrapper > .page-numbers a:hover,.footer_contents .woocommerce-MyAccount-navigation .is-active a,.footer_contents .timeline > div > .event-date{color:#aeaeae}.footer_contents:not(.has-custom-bg),.footer_contents.column_container,.footer_contents > .mozgaration-sa-background,.footer_contents .chained_contents.style-1 > div > .icon,.footer_contents .chained_contents.style-1 > div > .number,.footer_contents .chained_contents.style-2 > div > .icon,.footer_contents .chained_contents.style-2 > div > .number,.footer_contents .button_.color:hover:after,.footer_contents .quantity .minus,.footer_contents .quantity .plus,.footer_contents .mozgaration-md-content{background-color:#1b2430}.footer_contents,.footer_contents .button_.default,.footer_contents .button_.color:hover,.footer_contents .paging_wrapper > .page-numbers a,.footer_contents .paging_wrapper > .page-numbers li > span,.footer_contents .author-name a,.footer_contents .style2 > .filter_navigation li a.active,.footer_contents .quantity .plus:hover,.footer_contents .quantity .minus:hover,.footer_contents .woocommerce-MyAccount-navigation a,.footer_contents .brochure-box,.footer_contents .brochure-box_text b{color:#9c9c9c}.footer_contents,.footer_contents *,.footer_contents *:before,.footer_contents *:after,.footer_contents:before,.footer_contents:after,.footer_contents .button_.color:hover,.footer_contents .brochure-box:hover{border-color:#5e5a67}.footer_contents .mozgaration_divider.style-1:before,.footer_contents .mozgaration_divider.style-2:before,.footer_contents .mozgaration_divider.style-3:before,.footer_contents .mozgaration_divider.style-5,.footer_contents .mozgaration-toggle .toggle-head:after,.footer_contents .testimonial .text .icon-quote-right,.footer_contents .testimonial .text .icon-quote-left,.footer_contents .mozgaration_quote .icon-quote-right,.footer_contents .mozgaration_quote .icon-quote-left,.footer_contents .star-rating:before,.footer_contents  .cart-collaterals h2:before,.footer_contents .timeline > div:before,.footer_contents #mozgaration-side-navigation > li.menu-item-has-children a:after{color:#5e5a67}.footer_contents .masonry .vertical_line,.footer_contents .timeline:after,.footer_contents .chained_contents.style-1:after,.footer_contents .chained_contents.style-2:after,.footer_contents .mozgaration_divider.style-2:after,.footer_contents .mozgaration_divider.style-3:after,.footer_contents .mozgaration_divider.style-4,.footer_contents .pricing_table.compare .table_wrap > ul > li.caption,.footer_contents .pricing_table.compare .table_wrap > ul > li.price,.footer_contents .dots-holder > div span,.footer_contents .widget > h5:after,.footer_contents .widget .sub-menu li a:after,.footer_contents  .widget .children li a:after,.footer_contents .price_slider_wrapper .ui-widget-content,.footer_contents .timeline > div:before,.footer_contents .border_grid > .row:after,.footer_contents.border_grid .content_row:after{background-color:#5e5a67}.footer_contents p.price del,.footer_contents .mozgaration_heading_wrapper.style-4 .punchline,.footer_contents .mozgaration_heading_wrapper.style-5 .punchline,.footer_contents .client_info,.footer_contents .blog_list .date_box,.footer_contents .post_data *,.footer_contents .comment-meta > a,.footer_contents .filter_navigation li a,.footer_contents .widget > ul > li li a,.footer_contents .widget .menu > li li a,.footer_contents .widget_latest_posts .meta,.footer_contents  .widget_latest_posts .meta *,.footer_contents .widget_popular_posts .meta,.footer_contents  .widget_popular_posts .meta *,.footer_contents .small.note,.footer_contents  .star-rating span:before,.footer_contents .with_icons.style-2 > div > .icon,.footer_contents .chained_contents.style-1 > div > .icon,.footer_contents .chained_contents.style-1 > div > .number,.footer_contents .chained_contents.style-2 > div > .icon,.footer_contents .chained_contents.style-2 > div > .number,.footer_contents .read_more:before,.footer_contents .icon-content-box.icon-style-1 .icon-holder span:before,.footer_contents .quantity .plus,.footer_contents  .quantity .minus,.footer_contents .woocommerce.widget .quantity,.footer_contents#tools > ul > li:hover > span:first-child,.footer_contents#tools > ul > li.active > span:first-child,.footer_contents#tools > ul > li:hover:before,.footer_contents#tools > ul > li.active:before,.footer_contents .latest_news .date,.footer_contents #mozgaration-side-navigation li a:hover,.footer_contents #mozgaration-side-navigation li.active > a,.footer_contents .tab_title:hover,.footer_contents  .tab_title.active,.footer_contents .brochure-box i{color:#eaeaea}.footer_contents .mozgaration_heading_wrapper.style-2 > .style-2:before,.footer_contents .mozgaration_heading .heading_icon:before,.footer_contents .highlight.style-1,.footer_contents .services-category h4,.footer_contents .paging_wrapper > .page-numbers .current,.footer_contents .single_variation span.price,.footer_contents .primary-color,.footer_contents  .primary-color > a,.footer_contents .primary-color.mozgaration_heading,.footer_contents .icon-content-box.icon-style-4 .icon-holder span:before{color:rgba(255,255,255,0.2)}.footer_contents .pricing_table .table_wrap.highlight > ul > li.caption,.footer_contents .pricing_table .table_wrap.highlight > ul > li.price,.footer_contents .button_.default:hover:after,.footer_contents .button_.color,.footer_contents .services-category a.info,.footer_contents .mozgaration-toggle > ol > li .toggle-number,.footer_contents .mozgaration_heading.style-1:after,.footer_contents .mozgaration_heading_wrapper.style-4 > .style-4:after,.footer_contents .mozgaration_heading_wrapper.style-5 > .style-5:after,.footer_contents .highlight.style-2,.footer_contents .dots-holder div.active span,.footer_contents .dots-holder div:hover span,.footer_contents input[type="submit"]:hover,.footer_contents input[type="button"]:hover,.footer_contents .comment-reply a:hover,.footer_contents .comment-reply-title small > a:hover,.footer_contents .action_buttons li a:hover,.footer_contents .onsale,.footer_contents .product_info_footer a.added_to_cart,.footer_contents  button.button:hover,.footer_contents  input.button:hover,.footer_contents  #respond input#submit:hover,.footer_contents  .cart_totals a.button:hover,.footer_contents .ui-slider .ui-slider-handle,.footer_contents .ui-slider .ui-slider-range,.footer_contents .with_icons.style-3 > div > .icon,.footer_contents .icon-content-box.icon-style-2 .icon-holder span:before,.footer_contents .icon-content-box.icon-style-3 .icon-holder span:before,.footer_contents .chained_contents > div:hover .icon,.footer_contents .chained_contents > div:hover .number,.footer_contents .mozgaration-md-content>h1,.footer_contents .mozgaration-md-content>h2,.footer_contents .mozgaration-md-content>h3,.footer_contents .mozgaration-md-content>h4,.footer_contents .mozgaration-md-content>h5,.footer_contents .mozgaration-md-content>h6{background-color:rgba(255,255,255,0.2)}.footer_contents .mozgaration_tabs.tab-style-1 .tab_nav > li.active:after,.footer_contents .mozgaration_tabs.tab-style-1 .tab_content_wrapper.active > .tab_title,.footer_contents .mozgaration_tabs.tab-style-2 .tab_nav > li.active:after,.footer_contents .mozgaration_tabs.tab-style-2 .tab_contents .tab_content_wrapper.active > .tab_title,.footer_contents .filter_navigation li a.active,.footer_contents .button_.color,.footer_contents .chained_contents > div:hover .icon,.footer_contents .chained_contents > div:hover .number,.footer_contents .brochure-box{border-color:rgba(255,255,255,0.2)}.footer_contents .with_icons.style-3 > div > .icon,.footer_contents .pricing_table .table_wrap.highlight > ul > li.caption,.footer_contents .pricing_table .table_wrap.highlight > ul > li.price,.footer_contents .button_.color,.footer_contents .services-category a.info,.footer_contents .style1 > .filter_navigation li a,.footer_contents .button_.default:hover,.footer_contents .mozgaration-toggle > ol > li .toggle-number,.footer_contents .icon-content-box.icon-style-2 .icon-holder span:before,.footer_contents .highlight.style-2,.footer_contents input[type="submit"],.footer_contents input[type="button"],.footer_contents button:not(.button_),.footer_contents button:not(.button_):hover,.footer_contents .cart_totals a.button,.footer_contents .cart_totals a.button:hover,.footer_contents .comment-reply a,.footer_contents .comment-reply-title small > a,.footer_contents .comment-reply-title small > a:hover,.footer_contents .product_info_footer a.added_to_cart,.footer_contents .product_info_footer a.added_to_cart:hover,.footer_contents .quantity .plus:hover,.footer_contents .quantity .minus:hover,.footer_contents .chained_contents > div:hover .icon,.footer_contents .chained_contents > div:hover .number,.footer_contents .icon-content-box.icon-style-3 .icon-holder span:before,.footer_contents .product_info_footer > a{color:#ffffff}.footer_contents .mozgaration_heading,.footer_contents h1,.footer_contents h2,.footer_contents h3,.footer_contents h4,.footer_contents h5,.footer_contents h6,.footer_contents h1 a,.footer_contents h2 a,.footer_contents h3 a,.footer_contents h4 a,.footer_contents h5 a,.footer_contents h6 a,.footer_contents h1 a:hover,.footer_contents h2 a:hover,.footer_contents h3 a:hover,.footer_contents h4 a:hover,.footer_contents h5 a:hover,.footer_contents h6 a:hover,.footer_contents .open .toggle-head,.footer_contents .style2 > .filter_navigation li a,.footer_contents .mozgaration-md-content>h1,.footer_contents .mozgaration-md-content>h2,.footer_contents .mozgaration-md-content>h3,.footer_contents .mozgaration-md-content>h4,.footer_contents .mozgaration-md-content>h5,.footer_contents .mozgaration-md-content>h6{color:#cccccc}.footer_contents input[type="submit"],.footer_contents input[type="button"],.footer_contents button:not(.button_),.footer_contents .comment-reply a,.footer_contents .style1 .filter_navigation li a,.footer_contents .comment-reply-title small > a,.footer_contents ul > li > div > span.close,.footer_contents button.button,.footer_contents  input.button,.footer_contents  #respond input#submit,.footer_contents  .cart_totals a.button{background-color:#444444}.footer_contents .social_media li a,.footer_contents .filter_navigation li span.badge{background-color:#ff4400}.select2-drop{border-color:#E8E8E8}.widget .social_media li a{background-color:#ff4400}.widget .social_media li a{background-image:none}.admin-bar #right_side{background-position:right 32px}.mobile_device.admin-bar #right_side{background-position:right 46px}.mobile_device #right_side{background-attachment:scroll}.left-side-background{background-color:#222222}.admin-bar .left-side-background{background-position:left 32px}.mobile_device.admin-bar .left-side-background{background-position:left 46px}.left-side-background{background-image:url(../images/left-blok.jpg);background-attachment:scroll;background-position:left top;background-repeat:no-repeat;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover}.mobile_device .left-side-background{-webkit-background-size:auto 100-moz-background-size:auto;-o-background-size:auto}@media screen and (max-width:979px){#left_side{background-color:#222222}.admin-bar #left_side{background-position:left 32px}.mobile_device.admin-bar #left_side{background-position:left 46px}#left_side{background-image:url(../images/left-blok.jpg);background-attachment:scroll;background-position:left top;background-repeat:no-repeat;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover}.mobile_device #left_side{-webkit-background-size:auto 100-moz-background-size:auto;-o-background-size:auto}}#right_side{background-color:#ff4400}.admin-bar #right_side{background-position:right 32px}.mobile_device.admin-bar #right_side{background-position:right 46px}#right_side{background-image:none}#right-fix #section,#right-fix #section1{background-color:#ff4400}#right-fix #section,#right-fix #section1{background-image:none}#right-fixdiv .bg{background-color:#ff4400}#right-fixdiv .bg{background-image:none}#right-fixdiv .first{background-color:#ff4400}#right-fixdiv .first{background-image:none}#right-fixdiv .second{background-color:#ff4400}#right-fixdiv .second{background-image:none}.sub_page_header h1{color:}.breadcrumb,.breadcrumb span:before{color:}.breadcrumb a,.breadcrumb a:before{color:}.breadcrumb{background-color:rgba(255,255,255,0.5)}.woocommerce-checkout .WOO_CK_WUVIC_buttom,.woocommerce-checkout #payment_heading  {display:none !important}table.shop_table tfoot tr.fee th::after{display:none!important}.wc-proceed-to-checkout .button {font-size:22px !important}.metode-de-plata label {border:1px solid #E8E8E8}.metode-de-plata input:checked + label {border:1px solid #439c84}.leftwidget{margin-top:30px}.site-logo,.infobar-logo{padding:20px 0px 30px 0px}.update_variation_form td::before{display:none!important}.woocommerce table.shop_table_responsive tr td,.woocommerce-page table.shop_table_responsive tr td .update_variation_form td {background:transparent !important;text-align:left !important}.update_variation_form .quantity{display:none;width:100%;text-align:left;margin:0 0 10px 0 !important}.update_variation_form span#cancel{background:#0000001f !important;padding:5px 10px !important;border-radius:0 !important;color:black !important;text-transform:none  !important;font-weight:normal !important;font-family:sans-serif;float:left;margin-left:10px}#new_row{background:#f9f9f9;border:1px solid #E8E8E8}#new_row td::before {display:none}.update_variation_form .variations .label,.update_variation_form .variations .value {padding:0;border:none}.chaty-widget,.chaty-widget .get,.chaty-widget .get a{display:none !important}.stocke1 #tools {display:none}.stocke2 #tools {display:block}.tool-icon.search {display:none}a.header-cart-holder{display:block;width:100%;position:relative;padding:20px 0}.stocke2 #tools ul li .icon-basket {font-size:50px;margin-left:38px}.stocke2 #tools ul li .icon-basket {border-right:0px !important}#tools .cart .number {left:55%;top:33px;background:#439c84}.mobile-menu #mobile-logo{padding:10px;position:fixed;z-index:99;width:100%}.msg-cos {display:block;width:100%;font-weight:bold;text-align:center}.cart-collaterals .fee,.cart-collaterals .order-total {display:none !important}.cart-subtotal td {text-align:right}#main_content {
+background: #fff;
+}
+body.mobile-menu {
+margin-bottom: 0px; 
+} .mobile-menu #mobile-logo .logo-holder img {
+height: auto;
+}
+::placeholder {
+color: #666;
+}
+h2.titlu-continut-cos:before {
+font-family: fontello;
+content: "✔";
+display: inline-block;
+font-style: normal;
+font-variant: normal;
+font-weight: 400;
+line-height: 1em;
+margin-right: .2em;
+text-align: center;
+text-decoration: inherit;
+text-transform: none;
+width: 1em;
+} #right-fix h5 {
+font-size: 40px;
+text-decoration: none;
+border: 0;
+margin-top: 60px;
+} .cumpara-gherute a {
+background: #439c84 !important;
+padding-left: 20px !important;
+padding-right: 20px !important;
+border: 0  !important;
+}
+.no-border a {
+border: 0 !important;
+} .light-style:not(.has-custom-bg), .light-style.column_container, .light-style > .mozgaration-sa-background, .light-style .chained_contents.style-1 > div > .icon, .light-style .chained_contents.style-1 > div > .number, .light-style .chained_contents.style-2 > div > .icon, .light-style .chained_contents.style-2 > div > .number, .light-style .button_.color:hover:after, .light-style .quantity .minus, .light-style .quantity .plus, .light-style .mozgaration-md-content {
+background-color: #ff4300 !important;
+}
+.alt-style-2 .pricing_table .table_wrap.highlight > ul > li.caption, .alt-style-2 .pricing_table .table_wrap.highlight > ul > li.price, .alt-style-2 .button_.default:hover:after, .alt-style-2 .button_.color, .alt-style-2 .services-category a.info, .alt-style-2 .mozgaration-toggle > ol > li .toggle-number, .alt-style-2 .mozgaration_heading.style-1:after, .alt-style-2 .mozgaration_heading_wrapper.style-4 > .style-4:after, .alt-style-2 .mozgaration_heading_wrapper.style-5 > .style-5:after, .alt-style-2 .highlight.style-2, .alt-style-2 .dots-holder div.active span, .alt-style-2 .dots-holder div:hover span, .alt-style-2 input[type="submit"]:hover, .alt-style-2 input[type="button"]:hover, .alt-style-2 .comment-reply a:hover, .alt-style-2 .comment-reply-title small > a:hover, .alt-style-2 .action_buttons li a:hover, .alt-style-2 .onsale, .alt-style-2 .product_info_footer a.added_to_cart, .alt-style-2 button.button:hover, .alt-style-2 input.button:hover, .alt-style-2 #respond input#submit:hover, .alt-style-2 .cart_totals a.button:hover, .alt-style-2 .ui-slider .ui-slider-handle, .alt-style-2 .ui-slider .ui-slider-range, .alt-style-2 .with_icons.style-3 > div > .icon, .alt-style-2 .icon-content-box.icon-style-2 .icon-holder span:before, .alt-style-2 .icon-content-box.icon-style-3 .icon-holder span:before, .alt-style-2 .chained_contents > div:hover .icon, .alt-style-2 .chained_contents > div:hover .number, .alt-style-2 .mozgaration-md-content>h1, .alt-style-2 .mozgaration-md-content>h2, .alt-style-2 .mozgaration-md-content>h3, .alt-style-2 .mozgaration-md-content>h4, .alt-style-2 .mozgaration-md-content>h5, .alt-style-2 .mozgaration-md-content>h6 {
+background-color: #ff4300 !important;
+}
+.tit1 {
+font-size: 48px !important;
+}
+.menu-item-613 {display:none !important;
+}
+.menu-item-612 {display:none !important;
+}
+.product_item_holder .product_info_footer {
+border-style: solid;
+border-width: 0px 0 0 !important;}
+#right-fix #section, #right-fix #section1 {
+background-color: #FF4300;
+}
+#right-fixdiv .first {
+background-color: #439c84;
+}
+#navigation > li {
+border-left-color: #FF4300;
+}
+.centered-nav>#navigation>li>a {
+border-bottom-color: #FF4300 !important;
+}
+.swatch {
+margin-bottom: 12px !important;
+} .swatch.swatch-label.opacity, .atawc-swatches .swatch-color.opacity, .atawc-swatches .swatch-image.opacity {
+opacity: 1 !important;
+font-weight: bold;
+}
+.swatch.swatch-label.opacity.selected, .atawc-swatches .swatch-color.opacity.selected, .atawc-swatches .swatch-image.opacity.selected {
+opacity: 1;
+background-color: #54C3A5;
+color: white;
+}
+label[for=marime]:before {
+display:inline;
+content: "Alege ";
+}
+label[for=marime]:after {
+display:inline;
+content: "a";
+}
+.default-style .quantity .plus, .default-style .quantity .minus {
+font-size: 25px;
+font-weight: bold;
+background-color: #f1f1f1;
+padding: 6px 20px 30px 20px !important;
+} #place_order {
+display: block;
+width: 100%;
+line-height: 60px;
+font-size: 24px;
+text-transform: uppercase;
+font-weight: bold;
+background: #439c84;
+}
+#place_order:hover {
+background-color: #54C3A5;
+} .wc-proceed-to-checkout .button {
+text-align: center;
+display: block;
+width: 100%;
+line-height: 60px;
+font-size: 24px;
+text-transform: uppercase;
+font-weight: bold;
+background: #439c84 !important;
+}
+.wc-proceed-to-checkout .button:hover {
+background-color: #54C3A5 !important;
+} #right-fixdiv .bg {
+background-image: none;
+background-color: #FF4300;
+} #navigation {
+text-transform: uppercase;
+}
+.centered-nav > #navigation > li > a {
+line-height: 45px;
+} .icon-content-box.icon-style-1.icon-left .icon-holder {
+margin-top: 10px;
+} .link-space {
+margin-right: 5px;
+} .woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message {
+border: 2px solid #439c84;
+}
+.woocommerce .woocommerce-message a, .woocommerce-page .woocommerce-message a {
+color: #439c84;
+}
+.woocommerce .woocommerce-message::before, .woocommerce-page .woocommerce-message::before {
+background-color: #439c84;
+}
+.default-style .button_.color {
+border-color: #439c84;
+background-color: #439c84;
+}
+.default-style button.button {
+background-color: #439c84;
+}
+.default-style button.button:hover {
+background-color: #54C3A5;
+} .produse-acasa .product {
+width: 100%;
+}  .banner-foarfeca {
+float: right;
+margin-top: -22px;
+display: block;
+} .woocommerce div.single-product form.cart .button, .woocommerce-page div.single-product form.cart .button {
+padding: 21px 30px;
+} .single_variation {
+margin-left: 5px;
+}
+.woocommerce-variation-description, .woocommerce-variation-price {
+display: none;
+}
+.woocommerce-variation-availability, p.stock, .single_variation {
+display: inline;
+margin-bottom: 0;
+}
+.reset_variations {
+display: inline !important;
+}
+.woocommerce .quantity input.qty, .woocommerce-page .quantity input.qty { padding: 4px 6px;
+height: 42px;
+width: 120px;
+}
+@media screen and (max-width: 768px) {
+.banner-foarfeca {
+float: none;
+margin-top: 20px;
+margin-bottom: -20px;
+}
+}
+@media only screen and (min-width: 769px) and (max-width: 1599px) {
+.banner-foarfeca {
+display: none;
+}
+} .titlu-categorie-magazin {
+margin-top: 25px;
+margin-bottom: 30px;
+}
+h2.titlu-categorie-magazin:first-of-type {
+margin-top: 0px;
+} .cart_extras {
+float: left;
+width: 50%;
+padding-right: 20px;
+}
+@media screen and (max-width: 767px) {
+.cart_extras {
+float: none;
+width: 100%;
+padding-right: 0;
+}
+}
+.titlu-continut-cos {
+margin-bottom: 20px;
+font-size: 22px;
+}
+.coloana {
+float: left;
+width: 50%;
+}
+.rand:after {
+content: "";
+display: table;
+clear: both;
+}
+@media only screen and (min-width: 375px) {
+.spatiu{
+display:none;
+}
+}
+@media only screen and (max-width: 375px) {
+.spatiu{
+clear:both;
+display:block;
+margin-top: 10px;
+padding-top: 10px;
+}
+.coloana {
+float: none;
+width: 100%;
+}
+.woocommerce .woocommerce-MyAccount-navigation, .woocommerce-page .woocommerce-MyAccount-navigation {
+float: none;
+width: 100%;
+padding-right: 0;
+}
+.woocommerce .woocommerce-MyAccount-content, .woocommerce-page .woocommerce-MyAccount-content {
+float: none;
+width: 100%;
+padding-left: 0;
+}
+.woocommerce .woocommerce-MyAccount-navigation > ul, .woocommerce-page .woocommerce-MyAccount-navigation > ul {
+border-width: 0;
+}
+.woocommerce .woocommerce-MyAccount-navigation > ul > li, .woocommerce-page .woocommerce-MyAccount-navigation > ul > li {
+float: left;
+margin-right: 10px;
+}
+.woocommerce table.my_account_orders .button, .woocommerce-page table.my_account_orders .button {
+display: block;
+white-space: normal;
+}
+}
+.imagine-categorie {
+width: 100px;
+height: auto;
+float: left;
+margin-right: 10px;
+}
+.woocommerce form .form-row label.inline, .woocommerce-page form .form-row label.inline {
+white-space: normal;
+line-height: 1.2em;
+}
+woocommerce form .form-row label.checkbox, .woocommerce-page form .form-row label.checkbox {
+white-space: normal !important;
+line-height: 1.2em;
+}
+.woocommerce-page .checkout .woocommerce-additional-fields {
+margin-top: 0;
+} #billing_company_field, #billing_cui_field, #billing_nr_ordine_field {
+display: none;
+} .woocommerce form .form-row .optional{
+display: none;
+} #cookie-law-info-bar {
+font-size: 9pt;
+}
+@media screen and (max-width: 979px) {
+#myhomeslider, #myhometagline {
+display: none !important;
+} .breadcrumb {
+display: none;
+}
+} .woocommerce .star-rating, .woocommerce-page .star-rating {
+height: 17px;
+}  .woocommerce #payment div.form-row, .woocommerce-page #payment div.form-row {
+padding: 0;
+} #right-fix .woocommerce.widget .quantity {
+color: #fff;
+}
+#footer .footer_widgets {
+background-color: #fff;
+}
+@media screen and (max-width: 768px) { .wc-proceed-to-checkout .button {
+line-height: 25px;
+font-size: 16px;
+padding: 21px 0 21px 0 !important;
+} .cart_extras {
+display: none;
+} .sub_page_header .page-title {
+padding: 20px 0;
+}
+.sub_page_header .page-title h1 {
+font-size: 25px;
+} #footer .footer_widgets {
+padding: 10px 0;
+background-color: #1b2430;
+}
+.footer_widgets .content_row_wrapper {
+padding: 5px 10px;
+}
+#footer-column-1.widgets_holder {
+margin-bottom: 0;
+}
+#footer-column-1 .widgets_holder .widget {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+#footer-column-1 ul.social_media {
+margin: 10px 0 0 0;
+}
+#contact_info-5, #social_media_icons-3, #text-6 {
+display: block;
+}
+#custom_html-2 {
+display: none;
+}
+#footer .footer_widgets {
+padding: 0;
+} .woocommerce-page .woocommerce-info {
+font-size: 11px;
+} .woocommerce-products-header .page-description {
+display: none;
+} .woocommerce-page div.single-product div.images .flex-control-thumbs {
+display: none;
+}
+.metode-de-plata label {
+font-size: 12px !important;
+} .woocommerce #coupon_code, .woocommerce-page #coupon_code {
+width: 50%;
+}
+.woocommerce-page form.checkout_coupon #coupon_code {
+width: 100%;
+}
+.woocommerce-page table.cart td.actions .coupon .button, .woocommerce-page form.checkout_coupon .button {
+height: 42px;
+} .woocommerce p.stars, .woocommerce-page p.stars {
+font-size: 0.80em;
+} .contact-info-address, .contact-info-phone1, .contact-info-mobile1, .contact-info-mail1 {
+display: block !important;
+}
+.with_icons.style-1 > div > .icon {
+display: inline !important;
+float: none !important;
+}
+.with_icons > div > div {
+display: inline !important;
+margin-left: 0 !important;
+}
+}
+@media screen and (max-width: 767px) { .alt-style-2 .border_grid > .row::after {
+background-color: transparent;
+}
+}
+@media screen and (max-width: 450px) { .woocommerce div.single-product form.cart div.quantity, .woocommerce-page div.single-product form.cart div.quantity { float: none;
+text-align: center;
+}
+.woocommerce div.single-product form.cart .button, .woocommerce-page div.single-product form.cart .single_add_to_cart_button {
+width: 100%;
+margin-top: 10px;
+}
+}
+@media screen and (min-width: 768px) { #contact_info-5, #social_media_icons-3, #text-6 {
+display: none;
+}
+#custom_html-2 {
+display: block;
+}
+#footer .footer_widgets {
+padding: 0;
+}
+#footer .footer_widgets .content_row_wrapper {
+padding: 0;
+}
+span.plata-online {
+color: #000;
+}
+.woocommerce-page div.single-product div.images .flex-direction-nav {
+display: none;
+}
+} .woocommerce-page .cart-collaterals .cart_totals table td {
+width: 100%;
+text-align: right;
+} @media only screen and (min-width: 962px) and (max-width: 1090px) {
+.woocommerce table.cart td.product-quantity .qty {
+width: 100px;
+}
+.woocommerce-page table.shop_table td.product-name {
+width: 30%;
+}
+} .woocommerce-page div.single-product form.cart table.variations {
+margin-bottom: 0;
+}
+.woocommerce-page div.single-product form.cart table.variations td {
+border-width: 0;
+} .mobile-menu-button2 {
+color: #fff;
+cursor: pointer;
+font-size: 35px;
+right: 0;
+margin-top: -35px;
+padding: 10px;
+position: absolute;
+top: 50%;
+z-index: 99999;
+text-decoration: none;
+}
+.mobile-menu-button2 .number {
+background: #439c84;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+border-radius: 50%;
+visibility: visible;
+font-family: arial!important;
+font-size: 11px;
+font-weight: 700;
+height: 18px;
+margin-left: 5px;
+line-height: 19px;
+position: absolute;
+text-align: center;
+left: 55%;
+top: 13px;
+width: 18px;
+color: #fff;
+}
+.icon-cart::before {
+content: '\e73d';
+} ul.flex-direction-nav {
+position: absolute;
+top: 40%;
+z-index: 99999;
+width: 100%;
+left: 0;
+margin: 0;
+padding: 0px;
+list-style: none;
+}
+ul.flex-direction-nav li:nth-child(1) {float: left;}
+ul.flex-direction-nav li:nth-child(2) {float: right;}
+a.flex-next {visibility:hidden;}
+a.flex-prev {visibility:hidden;}
+a.flex-next::after {
+visibility:visible;
+content: '\f054';
+font-family: 'FontAwesome';
+margin-right: 10px;
+font-size: 20px;   
+font-weight: bold;
+}
+a.flex-prev::before {
+visibility:visible;
+content: '\f053';
+font-family: 'FontAwesome';   
+margin-left: 10px;
+font-size: 20px;
+font-weight: bold;
+}
+ul.flex-direction-nav li a {
+color: #000;
+font-size: 2em;
+width: 36px;
+height: 36px;
+background: #fff;
+border-radius: 100%;
+box-sizing: content-box;
+}
+ul.flex-direction-nav li a, ul.flex-direction-nav li a:hover {
+text-decoration: none;
+} button[name='update_cart'] {
+display: none !important;
+}  .widgets_holder .widget {
+border-style: none;
+border-width: 0;
+} .woocommerce-page #payment ul.payment_methods li {
+display: inline;
+}
+#billing_country_field, #shipping_country_field, #billing_postcode_field, #shipping_postcode_field {
+display: none !important;
+}
+.woocommerce .checkout .details-col > div, .woocommerce-page .checkout .details-col > div {
+margin-bottom: 0px;
+}
+.woocommerce #payment ul.payment_methods, .woocommerce-page #payment ul.payment_methods { padding: 0;
+width: 100%;
+text-align: center;
+}
+form.checkout.woocommerce-checkout input, form.checkout.woocommerce-checkout textarea {
+background-color: #e8f0fe;
+} .select2-container {
+height: 42px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+line-height: 40px;
+}
+.select2-container--default .select2-selection--single {
+height: 42px;
+}
+form.checkout.woocommerce-checkout .select2-container--default .select2-selection--single {
+background-color: #e8f0fe;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+height: 40px;
+}
+.select2-container--default .select2-selection--single {
+border: 1px solid #E8E8E8;
+border-radius: 0;
+}
+.select2-dropdown {
+border: 1px solid #E8E8E8;
+border-radius: 0;
+} h3#ship-to-different-address {
+padding-top: 0;
+margin-top: 10px;
+}
+h3#ship-to-different-address span.extra-shipping-address {
+display: block;
+color: #ff4400;
+font-size: 14px;
+text-align: left;
+font-family: "Source Sans Pro";
+margin-top: 5px;
+}
+#ship-to-different-address-checkbox { position: absolute !important;
+clip: rect(0, 0, 0, 0);
+height: 1px;
+width: 1px;
+border: 0;
+overflow: hidden;
+}
+h3#ship-to-different-address label {
+white-space: normal;
+}
+h3#ship-to-different-address span {
+margin-left: 2px;
+cursor: pointer;
+}
+.woocommerce-terms-and-conditions-wrapper .woocommerce-form__label-for-checkbox {
+white-space: initial !important;
+}
+a.woocommerce-privacy-policy-link {
+display: inline-block;
+}
+a.woocommerce-privacy-policy-link:first-letter {
+text-transform: uppercase;
+}
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table tr.order-total {
+text-transform: uppercase;
+}
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table td.product-total,
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table th.product-total,
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table tr.cart-subtotal td,
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table tr.order-total td,
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table tr.fee td {
+text-align: right;
+} .woocommerce ul#shipping_method li, .woocommerce-page ul#shipping_method li {
+padding: 0 0 0 22px;
+}
+.woocommerce-page ul#shipping_method li label {
+padding-left: 10px;
+display: inline;
+}
+.woocommerce-page ul#shipping_method li label span.woocommerce-Price-amount.amount {
+float: right;
+opacity: 0;
+} #shipping_method input[type=radio]:checked + label > span {
+opacity: 1 !important;
+} .woocommerce-checkout-review-order-table .product-name > br {
+display: none;
+}
+label[for=shipping_method_0_flat_rate8]::after,
+label[for=shipping_method_0_flat_rate7]::after {
+display: inline;
+content: "Plata prin Card";
+opacity: 0.4;
+}
+label[for=shipping_method_0_super-fan-courier]::after {
+display: inline;
+content: "Plata prin Card / Ramburs";
+opacity: 0.4;
+} .button.button-inactive , #wpmc-back-to-cart{
+background: #ddd !important;
+color: #999 !important;
+}
+.button.button-inactive:hover,
+#wpmc-back-to-cart:hover {
+background-color: #439c84!important;
+color: #fff!important;
+} .metode-de-plata {
+display: flex;
+overflow: hidden;
+}
+.metode-de-plata input {
+position: absolute !important;
+clip: rect(0, 0, 0, 0);
+height: 1px;
+width: 1px;
+border: 0;
+overflow: hidden;
+}
+.metode-de-plata label {
+background-color: transparent;
+color: rgba(0, 0, 0, 0.6);
+font-size: 14px;
+line-height: 1;
+text-align: center;
+padding: 10px 0 10px 0;
+transition: all 0.1s ease-in-out;
+}
+.metode-de-plata li:nth-child(1):nth-last-child(1) label {
+width: 100%;
+}
+.metode-de-plata li:nth-child(1):nth-last-child(2) label,
+.metode-de-plata li:nth-child(2):nth-last-child(1) label {
+width: 49.5%;
+}
+.metode-de-plata li:nth-child(1):nth-last-child(3) label,
+.metode-de-plata li:nth-child(2):nth-last-child(2) label,
+.metode-de-plata li:nth-child(3):nth-last-child(1) label {
+width: 32%;
+}
+.metode-de-plata label:hover {
+cursor: pointer;
+}
+.metode-de-plata input:checked + label {
+background-color: #439c84;
+color: #fff;
+}
+.metode-de-plata input:checked + label::before {
+color: #fff;
+} .woocommerce-page #payment ul.payment_methods .payment_method_librapay label::before {
+content: "\f09d";
+font-family: "FontAwesome";
+font-size: 36px;
+font-weight: normal;
+margin-bottom: 10px;
+display: block;
+}
+.woocommerce-page #payment ul.payment_methods .payment_method_bacs label::before {
+content: "\f19c";
+font-family: "FontAwesome";
+font-size: 36px;
+font-weight: normal;
+margin-bottom: 10px;
+display: block;
+}
+.woocommerce-page #payment ul.payment_methods .payment_method_cod label::before {
+content: "\f0d6";
+font-family: "FontAwesome";
+font-size: 36px;
+font-weight: normal;
+margin-bottom: 10px;
+display: block;
+} img.plati-online {
+margin-top: 5px;
+}
+.js .mozgaration-loading #loader-wrapper:before {
+opacity: 1;
+}
+table.shop_table tfoot tr.fee th::after {
+display: inline-block;
+color:#439c84;
+font-size: 12px;
+content: "Sfat: Alege să plătești cu cardul pentru a economisi taxa de ramburs!";
+}
+@media screen and (max-width: 780px) {
+#main_content {
+padding-top: 80px;
+}
+}

@@ -1,0 +1,1004 @@
+
+#main_content {
+  background: #fff;
+}
+
+body.mobile-menu {
+     margin-bottom: 0px; 
+}
+
+/* header mobile */
+.mobile-menu #mobile-logo .logo-holder img {
+    height: auto;
+}
+
+.site-logo {
+     margin-bottom: 0px;
+     padding-bottom: 0; 
+}
+
+::placeholder {
+  color: #666;
+}
+
+h2.titlu-continut-cos:before {
+  font-family: fontello;
+  content: "✔";
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 1em;
+  margin-right: .2em;
+  text-align: center;
+  text-decoration: inherit;
+  text-transform: none;
+  width: 1em;
+}
+
+/* sidebar deapta home page */
+
+#right-fix h5 {
+    font-size: 40px;
+    text-decoration: none;
+    border: 0;
+    margin-top: 60px;
+}
+
+
+/* CUMPARA GHERUTE - butonul principal */
+
+.cumpara-gherute a {
+  background: #439c84 !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  border: 0  !important;
+}
+
+.no-border a {
+  border: 0 !important;
+}
+
+/** CUSTOM CSS DIN TEMA **/
+
+.light-style:not(.has-custom-bg), .light-style.column_container, .light-style > .mozgaration-sa-background, .light-style .chained_contents.style-1 > div > .icon, .light-style .chained_contents.style-1 > div > .number, .light-style .chained_contents.style-2 > div > .icon, .light-style .chained_contents.style-2 > div > .number, .light-style .button_.color:hover:after, .light-style .quantity .minus, .light-style .quantity .plus, .light-style .mozgaration-md-content {
+  background-color: #ff4300 !important;
+}
+.alt-style-2 .pricing_table .table_wrap.highlight > ul > li.caption, .alt-style-2 .pricing_table .table_wrap.highlight > ul > li.price, .alt-style-2 .button_.default:hover:after, .alt-style-2 .button_.color, .alt-style-2 .services-category a.info, .alt-style-2 .mozgaration-toggle > ol > li .toggle-number, .alt-style-2 .mozgaration_heading.style-1:after, .alt-style-2 .mozgaration_heading_wrapper.style-4 > .style-4:after, .alt-style-2 .mozgaration_heading_wrapper.style-5 > .style-5:after, .alt-style-2 .highlight.style-2, .alt-style-2 .dots-holder div.active span, .alt-style-2 .dots-holder div:hover span, .alt-style-2 input[type="submit"]:hover, .alt-style-2 input[type="button"]:hover, .alt-style-2 .comment-reply a:hover, .alt-style-2 .comment-reply-title small > a:hover, .alt-style-2 .action_buttons li a:hover, .alt-style-2 .onsale, .alt-style-2 .product_info_footer a.added_to_cart, .alt-style-2 button.button:hover, .alt-style-2 input.button:hover, .alt-style-2 #respond input#submit:hover, .alt-style-2 .cart_totals a.button:hover, .alt-style-2 .ui-slider .ui-slider-handle, .alt-style-2 .ui-slider .ui-slider-range, .alt-style-2 .with_icons.style-3 > div > .icon, .alt-style-2 .icon-content-box.icon-style-2 .icon-holder span:before, .alt-style-2 .icon-content-box.icon-style-3 .icon-holder span:before, .alt-style-2 .chained_contents > div:hover .icon, .alt-style-2 .chained_contents > div:hover .number, .alt-style-2 .mozgaration-md-content>h1, .alt-style-2 .mozgaration-md-content>h2, .alt-style-2 .mozgaration-md-content>h3, .alt-style-2 .mozgaration-md-content>h4, .alt-style-2 .mozgaration-md-content>h5, .alt-style-2 .mozgaration-md-content>h6 {
+  background-color: #ff4300 !important;
+}
+.tit1 {
+      font-size: 48px !important;
+}
+.menu-item-613 {display:none !important;
+}
+.menu-item-612 {display:none !important;
+}
+.product_item_holder .product_info_footer {
+  border-style: solid;
+  border-width: 0px 0 0 !important;}
+#right-fix #section, #right-fix #section1 {
+  background-color: #FF4300;
+}
+
+#right-fixdiv .first {
+  background-color: #439c84;
+}
+#navigation > li {
+  border-left-color: #FF4300;
+}
+.centered-nav>#navigation>li>a {
+  border-bottom-color: #FF4300 !important;
+}
+.swatch {
+ 
+  margin-bottom: 12px !important;
+}
+
+/* alege marime swatches*/
+.swatch.swatch-label.opacity, .atawc-swatches .swatch-color.opacity, .atawc-swatches .swatch-image.opacity {
+opacity: 1 !important;
+font-weight: bold;
+}
+
+.swatch.swatch-label.opacity.selected, .atawc-swatches .swatch-color.opacity.selected, .atawc-swatches .swatch-image.opacity.selected {
+  opacity: 1;
+  background-color: #54C3A5;
+  color: white;
+}
+
+label[for=marime]:before {
+display:inline;
+content: "Alege ";
+}
+label[for=marime]:after {
+display:inline;
+content: "a";
+}
+
+.default-style .quantity .plus, .default-style .quantity .minus {
+font-size: 25px;
+font-weight: bold;
+background-color: #f1f1f1;
+padding: 6px 20px 30px 20px !important;
+}
+
+/* Plaseaza comanda / Place order button */
+
+#place_order {
+  display: block;
+  width: 100%;
+  line-height: 60px;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: #439c84;
+}
+
+#place_order:hover {
+background-color: #54C3A5;
+}
+
+/* Continua cu finalizarea / .wc-proceed-to-checkout .button */
+
+.wc-proceed-to-checkout .button {
+  text-align: center;
+  display: block;
+  width: 100%;
+  line-height: 60px;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: #439c84 !important;
+}
+
+.wc-proceed-to-checkout .button:hover {
+  background-color: #54C3A5 !important;
+}
+
+/** Fundal Shop Dreapta **/
+#right-fixdiv .bg {
+background-image: none;
+background-color: #FF4300;
+}
+
+/** Meniul Principal **/
+#navigation {
+text-transform: uppercase;
+}
+
+.centered-nav > #navigation > li > a {
+  line-height: 45px;
+}
+
+/** Aliniere Icoane **/
+.icon-content-box.icon-style-1.icon-left .icon-holder {
+  margin-top: 10px;
+}
+
+/** Spatiu Link My Account **/
+.link-space {
+margin-right: 5px;
+}
+
+/** Culoare Verde **/
+.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message {
+border: 2px solid #439c84;
+}
+
+.woocommerce .woocommerce-message a, .woocommerce-page .woocommerce-message a {
+color: #439c84;
+}
+
+.woocommerce .woocommerce-message::before, .woocommerce-page .woocommerce-message::before {
+background-color: #439c84;
+}
+
+.default-style .button_.color {
+border-color: #439c84;
+background-color: #439c84;
+}
+
+.default-style button.button {
+background-color: #439c84;
+}
+.default-style button.button:hover {
+background-color: #54C3A5;
+}
+
+/** !Fix Produse Acasa **/
+.produse-acasa .product {
+width: 100%;
+}
+
+/** Ascundere sortare produse 
+.woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering {
+display: none;
+}**/
+
+.mozgaration_heading_wrapper.style-3:before {
+	content: "";
+	display: block;
+	width: 70px;
+	height: 62px;
+	background: url(../images/paw-70x62.png);
+	margin: 0 auto;
+}
+
+/** Banner Foarfeca **/
+.banner-foarfeca {
+float: right;
+margin-top: -22px;
+display: block;
+}
+
+/* add to cart si qty */
+.woocommerce div.single-product form.cart .button, .woocommerce-page div.single-product form.cart .button {
+	/*padding: 21px 30px;*/
+	padding: 12px 20px;
+	padding: 7px 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.woocommerce div.single-product .single_variation span.price:before, .woocommerce div.single-product p.price:not(:empty):before, .woocommerce-page div.single-product .single_variation span.price:before, .woocommerce-page div.single-product p.price:not(:empty):before {
+ color: #439c84;
+}
+
+/** Mutare cantitate stoc la produse variabile **/
+/*.single_variation {
+  margin-left: 5px;
+}*/
+.woocommerce-variation-description, .woocommerce-variation-price {
+  display: none;
+}
+
+/*.woocommerce-variation-availability, p.stock, .single_variation {
+  display: inline;
+  margin-bottom: 0;
+}*/
+.reset_variations {
+  display: inline !important;
+}
+
+.woocommerce .quantity input.qty, .woocommerce-page .quantity input.qty {
+  /**padding: 30px;**/
+  padding: 4px 6px;
+  height: 42px;
+  width: 120px;
+}
+
+@media screen and (max-width: 768px) {
+  .banner-foarfeca {
+    float: none;
+    margin-top: 20px;
+    margin-bottom: -20px;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1599px) {
+  .banner-foarfeca {
+    display: none;
+  }
+}
+
+/** Titluri Categorii **/
+.titlu-categorie-magazin {
+margin-top: 25px;
+margin-bottom: 30px;
+}
+
+h2.titlu-categorie-magazin:first-of-type {
+margin-top: 0px;
+}
+
+/** Continut Cos **/
+.cart_extras {
+  float: left;
+  width: 50%;
+  padding-right: 20px;
+}
+@media screen and (max-width: 767px) {
+  .cart_extras {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+  }
+}
+
+.titlu-continut-cos {
+margin-bottom: 20px;
+font-size: 22px;
+}
+
+.coloana {
+float: left;
+width: 50%;
+}
+.rand:after {
+content: "";
+display: table;
+clear: both;
+}
+@media only screen and (min-width: 375px) {
+  .spatiu{
+    display:none;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .spatiu{
+    clear:both;
+    display:block;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  .coloana {
+    float: none;
+    width: 100%;
+  }
+
+  .woocommerce .woocommerce-MyAccount-navigation, .woocommerce-page .woocommerce-MyAccount-navigation {
+      float: none;
+      width: 100%;
+      padding-right: 0;
+  }
+  .woocommerce .woocommerce-MyAccount-content, .woocommerce-page .woocommerce-MyAccount-content {
+      float: none;
+      width: 100%;
+      padding-left: 0;
+  }
+  .woocommerce .woocommerce-MyAccount-navigation > ul, .woocommerce-page .woocommerce-MyAccount-navigation > ul {
+      border-width: 0;
+  }
+
+  .woocommerce .woocommerce-MyAccount-navigation > ul > li, .woocommerce-page .woocommerce-MyAccount-navigation > ul > li {
+    float: left;
+    margin-right: 10px;
+  }
+
+  .woocommerce table.my_account_orders .button, .woocommerce-page table.my_account_orders .button {
+    display: block;
+    white-space: normal;
+  }
+}
+
+.imagine-categorie {
+  width: 100px;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+}
+
+.woocommerce form .form-row label.inline, .woocommerce-page form .form-row label.inline {
+  white-space: normal;
+  line-height: 1.2em;
+}
+
+woocommerce form .form-row label.checkbox, .woocommerce-page form .form-row label.checkbox {
+  white-space: normal !important;
+  line-height: 1.2em;
+}
+
+.woocommerce-page .checkout .woocommerce-additional-fields {
+  margin-top: 0;
+}
+
+
+
+/** Ascundere date firma **/
+#billing_company_field, #billing_cui_field, #billing_nr_ordine_field {
+  display: none;
+}
+
+/** Stergere "(optional)" **/
+.woocommerce form .form-row .optional{
+  display: none;
+}
+
+/** Cookie Bar */
+#cookie-law-info-bar {
+  font-size: 9pt;
+}
+
+@media screen and (max-width: 979px) {
+  #myhomeslider, #myhometagline {
+    display: none !important;
+  }
+
+  /** Ascundere breadcrumbs pe mobil **/
+  .breadcrumb {
+    display: none;
+  }
+}
+
+/** Rich snippets **/
+.woocommerce .star-rating, .woocommerce-page .star-rating {
+  height: 17px;
+}
+/**div.star-rating, div.star-rating a {
+  background: url("../images/stele.png") no-repeat 0 0px !important;
+}
+div.rating-cancel a, div.star-rating a {
+  background-position: 0 -38px !important;
+}
+div.star-rating-hover a {
+  background-position: 0 -18px !important;
+}
+
+div.rating-cancel, div.rating-cancel a {
+  background: url("../images/sterge.png") no-repeat 0 -16px !important;
+}**/
+
+/** Formular de comanda - egalizare buton Plaseaza Comanda **/
+.woocommerce #payment div.form-row, .woocommerce-page #payment div.form-row {
+  padding: 0;
+}
+
+/** Culoare Meniu Cos **/
+#right-fix .woocommerce.widget .quantity {
+  color: #fff;
+}
+
+
+#footer .footer_widgets {
+  background-color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+  /** Marime buton Finalizare Comanda **/
+  .wc-proceed-to-checkout .button {
+    line-height: 25px;
+    font-size: 16px;
+    padding: 21px 0 21px 0 !important;
+  }
+
+  /** Ascundere Extra Cos **/
+  .cart_extras {
+    display: none;
+  }
+
+  /** Titlul paginilor **/
+  .sub_page_header .page-title {
+    padding: 20px 0;
+  }
+  .sub_page_header .page-title h1 {
+    font-size: 25px;
+  }
+
+  /** Piese subsol **/
+  #footer .footer_widgets {
+    padding: 10px 0;
+    background-color: #1b2430;
+  }
+  
+  .footer_widgets .content_row_wrapper {
+    padding: 5px 10px;
+  }
+
+  #footer-column-1.widgets_holder {
+    margin-bottom: 0;
+  }
+
+  #footer-column-1 .widgets_holder .widget {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  #footer-column-1 ul.social_media {
+    margin: 10px 0 0 0;
+  }
+
+  #contact_info-5, #social_media_icons-3, #text-6 {
+    display: block;
+  }
+
+  #custom_html-2 {
+    display: none;
+  }
+
+  #footer .footer_widgets {
+    padding: 0;
+  }
+
+  /** Mesaje informative Woo **/
+  .woocommerce-page .woocommerce-info {
+    font-size: 11px;
+  }
+
+  /** Ascundere continut pagina Magazin **/
+  .woocommerce-products-header .page-description {
+    display: none;
+  }
+
+  /** Ascundere thumb galerie woo si afisare sageti **/
+  .woocommerce-page div.single-product div.images .flex-control-thumbs {
+    display: none;
+  }
+
+  .metode-de-plata label {
+    font-size: 12px !important;
+  }
+
+  /** Marime cod cupon **/
+  .woocommerce #coupon_code, .woocommerce-page #coupon_code {
+    width: 50%;
+  }
+  .woocommerce-page form.checkout_coupon #coupon_code {
+    width: 100%;
+  }
+
+  .woocommerce-page table.cart td.actions .coupon .button, .woocommerce-page form.checkout_coupon .button {
+    height: 42px;
+  }
+
+  /** Marime rating stele **/
+  .woocommerce p.stars, .woocommerce-page p.stars {
+    font-size: 0.80em;
+  }
+
+  /* Informatii contact meniu principal **/
+  .contact-info-address, .contact-info-phone1, .contact-info-mobile1, .contact-info-mail1 {
+    display: block !important;
+  }
+  .with_icons.style-1 > div > .icon {
+    display: inline !important;
+    float: none !important;
+  }
+  .with_icons > div > div {
+    display: inline !important;
+    margin-left: 0 !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  /** Scoatere linie intre testimoniale **/
+  .alt-style-2 .border_grid > .row::after {
+    background-color: transparent;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  /** Afisare Cantitate la produse **/
+  .woocommerce div.single-product form.cart div.quantity, .woocommerce-page div.single-product form.cart div.quantity {
+    /**margin: auto;
+    display: block;**/
+    float: none;
+    text-align: center;
+  }
+
+  .woocommerce div.single-product form.cart .button, .woocommerce-page div.single-product form.cart .single_add_to_cart_button {
+    width: 100%;
+    margin-top: 10px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  /** Ascundere footer pe Desktop **/
+  #contact_info-5, #social_media_icons-3, #text-6 {
+    display: none;
+  }
+
+  #custom_html-2 {
+    display: block;
+  }
+
+  #footer .footer_widgets {
+    padding: 0;
+  }
+
+  #footer .footer_widgets .content_row_wrapper {
+    padding: 0;
+  }
+
+  span.plata-online {
+    color: #000;
+  }
+
+  .woocommerce-page div.single-product div.images .flex-direction-nav {
+    display: none;
+  }
+}
+
+/** Tabel totaluri Cos **/
+.woocommerce-page .cart-collaterals .cart_totals table td {
+  width: 100%;
+  text-align: right;
+}
+
+/** Edit pentru cantitate pe rezolutii ciudate **/
+@media only screen and (min-width: 962px) and (max-width: 1090px) {
+  .woocommerce table.cart td.product-quantity .qty {
+    width: 100px;
+  }
+
+  .woocommerce-page table.shop_table td.product-name {
+    width: 30%;
+  }
+}
+
+/** Pagina produs **/
+
+/* widgetul progressbar */
+.mozgaration-progress .progress-percent {left: initial !important; right: 0 !important;}
+
+/* widgetul piechart */
+h5, .wpb_content_element .widgettitle, .wpb_content_element h2.wpb_heading {
+     font-size: 28px; 
+}
+
+
+.woocommerce-page div.single-product form.cart table.variations {
+  margin-bottom: 0;
+}
+.woocommerce-page div.single-product form.cart table.variations td {
+  border-width: 0;
+}
+
+/** Buton Cos pe mobil **/
+.mobile-menu-button2 {
+  color: #fff;
+  cursor: pointer;
+  font-size: 35px;
+  right: 0;
+  margin-top: -35px;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  z-index: 99999;
+  text-decoration: none;
+}
+
+.mobile-menu-button2 .number {
+        background: #439c84;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    visibility: visible;
+    font-family: arial!important;
+    font-size: 11px;
+    font-weight: 700;
+    height: 18px;
+    margin-left: 5px;
+    line-height: 19px;
+    position: absolute;
+    text-align: center;
+    left: 55%;
+    top: 13px;
+    width: 18px;
+    color: #fff;
+}
+
+.icon-cart::before {
+  content: '\e73d';
+}
+
+/** Galerie WOO **/
+ul.flex-direction-nav {
+  position: absolute;
+  top: 40%;
+  z-index: 99999;
+  width: 100%;
+  left: 0;
+  margin: 0;
+  padding: 0px;
+  list-style: none;
+}
+
+ul.flex-direction-nav li:nth-child(1) {float: left;}
+ul.flex-direction-nav li:nth-child(2) {float: right;}
+a.flex-next {visibility:hidden;}
+a.flex-prev {visibility:hidden;}
+
+a.flex-next::after {
+  visibility:visible;
+  content: '\f054';
+  font-family: 'FontAwesome';
+  margin-right: 10px;
+  font-size: 20px;   
+  font-weight: bold;
+}
+a.flex-prev::before {
+  visibility:visible;
+  content: '\f053';
+  font-family: 'FontAwesome';   
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+ul.flex-direction-nav li a {
+  color: #000;
+  
+  font-size: 2em;
+  width: 36px;
+  height: 36px;
+  background: #fff;
+  border-radius: 100%;
+  box-sizing: content-box;
+}
+ul.flex-direction-nav li a, ul.flex-direction-nav li a:hover {
+  text-decoration: none;
+}
+
+/** Ascundere buton Actualizare cos **/
+button[name='update_cart'] {
+  display: none !important;
+}
+
+/** WIDGETS **/
+
+/* Hide borders for main widgets */
+
+.widgets_holder .widget {
+  border-style: none;
+  border-width: 0;
+}
+
+/** CHECKOUT REDESIGN **/
+
+.woocommerce-page #payment ul.payment_methods li {
+  display: inline;
+}
+
+#billing_country_field, #shipping_country_field, #billing_postcode_field, #shipping_postcode_field {
+  display: none !important;
+}
+
+.woocommerce .checkout .details-col > div, .woocommerce-page .checkout .details-col > div {
+  margin-bottom: 0px;
+}
+
+.woocommerce #payment ul.payment_methods, .woocommerce-page #payment ul.payment_methods {
+  /**padding: 1em 1em 0 0;
+  margin-top: 10px;**/
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
+
+form.checkout.woocommerce-checkout input, form.checkout.woocommerce-checkout textarea {
+  background-color: #e8f0fe;
+}
+
+/** Select Judet **/
+.select2-container {
+  height: 42px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  line-height: 40px;
+}
+.select2-container--default .select2-selection--single {
+  height: 42px;
+}
+form.checkout.woocommerce-checkout .select2-container--default .select2-selection--single {
+  background-color: #e8f0fe;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+  height: 40px;
+}
+.select2-container--default .select2-selection--single {
+  border: 1px solid #E8E8E8;
+  border-radius: 0;
+}
+.select2-dropdown {
+  border: 1px solid #E8E8E8;
+  border-radius: 0;
+}
+
+/** Livrare la alta adresa **/
+h3#ship-to-different-address {
+  padding-top: 0;
+  margin-top: 10px;
+}
+h3#ship-to-different-address span.extra-shipping-address {
+  display: block;
+  color: #ff4400;
+  font-size: 14px;
+  text-align: left;
+  font-family: "Source Sans Pro";
+  margin-top: 5px;
+}
+#ship-to-different-address-checkbox {
+  /**display: inline;
+  margin: -2px 0 0 3px;
+  text-align: center;
+  vertical-align: middle;
+  position: relative;**/
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+h3#ship-to-different-address label {
+  white-space: normal;
+}
+h3#ship-to-different-address span {
+  margin-left: 2px;
+  cursor: pointer;
+}
+
+.woocommerce-terms-and-conditions-wrapper .woocommerce-form__label-for-checkbox {
+  white-space: initial !important;
+}
+
+a.woocommerce-privacy-policy-link {
+  display: inline-block;
+}
+a.woocommerce-privacy-policy-link:first-letter {
+  text-transform: uppercase;
+}
+
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table tr.order-total {
+  text-transform: uppercase;
+}
+
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table td.product-total,
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table th.product-total,
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table tr.cart-subtotal td,
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table tr.order-total td,
+.woocommerce-page .checkout .woocommerce-checkout-review-order-table tr.fee td {
+  text-align: right;
+}
+
+/** Metode de Livrare **/
+.woocommerce ul#shipping_method li, .woocommerce-page ul#shipping_method li {
+  padding: 0 0 0 22px;
+}
+
+.woocommerce-page ul#shipping_method li label {
+  padding-left: 10px;
+  display: inline;
+}
+.woocommerce-page ul#shipping_method li label span.woocommerce-Price-amount.amount {
+  float: right;
+  opacity: 0;
+}
+
+/* scos din opacitate la metodele de livrare neselectate */
+#shipping_method input[type=radio]:checked + label > span {
+  opacity: 1 !important;
+} 
+
+/* in cart edit cleanup pe checkout */
+
+.woocommerce-checkout-review-order-table .product-name > br {
+  display: none;
+}
+
+
+label[for=shipping_method_0_flat_rate8]::after,
+label[for=shipping_method_0_flat_rate7]::after {
+  display: inline;
+  content: "Plata prin Card";
+  opacity: 0.4;
+}
+label[for=shipping_method_0_super-fan-courier]::after {
+  display: inline;
+  content: "Plata prin Card / Ramburs";
+  opacity: 0.4;
+}
+
+
+label[for=shipping_method_0_local_pickup5]::after {
+  display: inline;
+  content: " La sediul nostru din Brasov, Str. Lunga nr. 69";
+  opacity: 0.4;
+}
+
+/* multistep checkout plugin button */
+.button.button-inactive , #wpmc-back-to-cart{
+  background: #ddd !important;
+  color: #999 !important;
+}
+
+  .button.button-inactive:hover,
+  #wpmc-back-to-cart:hover {
+   background-color: #439c84!important;
+   color: #fff!important;
+  }
+
+/** Butoane metoda de plata **/
+
+.metode-de-plata {
+  display: flex;
+  overflow: hidden;
+}
+
+.metode-de-plata input {
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+
+.metode-de-plata label {
+  background-color: transparent;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  line-height: 1;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  transition: all 0.1s ease-in-out;
+}
+
+.metode-de-plata li:nth-child(1):nth-last-child(1) label {
+	width: 100%;
+}
+
+.metode-de-plata li:nth-child(1):nth-last-child(2) label,
+.metode-de-plata li:nth-child(2):nth-last-child(1) label {
+	width: 49.5%;
+}
+
+.metode-de-plata li:nth-child(1):nth-last-child(3) label,
+.metode-de-plata li:nth-child(2):nth-last-child(2) label,
+.metode-de-plata li:nth-child(3):nth-last-child(1) label {
+	width: 32%;
+}
+
+.metode-de-plata label:hover {
+  cursor: pointer;
+}
+
+.metode-de-plata input:checked + label {
+  background-color: #439c84;
+  color: #fff;
+}
+
+.metode-de-plata input:checked + label::before {
+  color: #fff;
+}
+
+/** Icoane Plati **/
+.woocommerce-page #payment ul.payment_methods .payment_method_librapay label::before {
+  content: "\f09d";
+  font-family: "FontAwesome";
+  font-size: 36px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  display: block;
+}
+.woocommerce-page #payment ul.payment_methods .payment_method_bacs label::before {
+  content: "\f19c";
+  font-family: "FontAwesome";
+  font-size: 36px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  display: block;
+}
+.woocommerce-page #payment ul.payment_methods .payment_method_cod label::before {
+  content: "\f0d6";
+  font-family: "FontAwesome";
+  font-size: 36px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  display: block;
+}
+
+/* Imagine Plata online in siguranta **/
+img.plati-online {
+  margin-top: 5px;
+}
+
+
+.js .mozgaration-loading #loader-wrapper:before {
+  opacity: 1;
+}
+
+
+
+table.shop_table tfoot tr.fee th::after {
+  display: inline-block;
+  color:#439c84;
+  font-size: 12px;
+  content: "Sfat: Alege să plătești cu cardul pentru a economisi taxa de ramburs!";
+}
+
+@media screen and (max-width: 780px) {
+  #main_content {
+    padding-top: 80px;
+  }
+}
